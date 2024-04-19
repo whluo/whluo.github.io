@@ -162,7 +162,7 @@ function toggleList() {
 	
 	International Journal of Computer Vision (IJCV), to appear.
 	
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**](https://arxiv.org/abs/2305.17863) [**[Code]**]() 
 
 - Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation, 
 
@@ -170,7 +170,7 @@ function toggleList() {
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**](https://arxiv.org/abs/2311.17532) [**[Code]**]() 
 
 - Context-Aware Integration of Language and Visual References for Natural Language Tracking, 
 
@@ -178,7 +178,7 @@ function toggleList() {
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**](https://arxiv.org/abs/2403.19975) [**[Code]**]() 
 
 - Aux-NAS: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost, 
 
@@ -186,7 +186,7 @@ function toggleList() {
 	
 	International Conference on Learning Representations (ICLR), 2024.
 
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**](https://openreview.net/forum?id=cINwAhrgLf&noteId=cINwAhrgLf) [**[Code]**]() 
 
 - Punctuation-level Attack: Single-shot and Single Punctuation Can Fool Text Models, 
 
@@ -273,7 +273,7 @@ function toggleList() {
 	
 	International Journal of Computer Vision (IJCV), vol. 130, pp. 1754-1769, 2022.
 	
-	[**[PDF]**](papers/MonocularDeraining_IJCV.pdf) [**[Github]**](https://github.com/HDCVLab/Stereo-Image-Deraining)
+	[**[PDF]**](https://arxiv.org/abs/2105.03830) [**[Github]**](https://github.com/HDCVLab/Stereo-Image-Deraining)
 - Aesthetic Text Logo Synthesis via Content-aware Layout Inferring, 
 
 	Yizhi Wang+, Guo Pu, Wenhan Luo, Yexin Wang, Pengfei Xiong, Hongwen Kang, Zhouhui Lian, 
