@@ -19,7 +19,6 @@ redirect_from:
 
 <script type="text/javascript">
 	$(document).ready(function() {
-		//为超链接加上target='_blank'属�?
 		$('a[href^="http"]').each(function() {
 			$(this).attr('target', '_blank');
 		});
@@ -35,7 +34,7 @@ I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 po
 
 # Research
 
-I am interested in several topics in computer vision and machine learning. Specifically, my current research focuses on creative AI, such as image/video synthesis and enhancement.
+I am interested in several topics in computer vision and machine learning. Specifically, my current research focuses on creative AI, such as image/video synthesis and enhancement. 
 
 # Updates
 - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024.
@@ -154,7 +153,7 @@ function toggleList() {
 
 
 # Publications [**[Full List]**](assets/publication.html)
-(* indicates equal contribution, + indicates intern/student working with me, # indicates correspondence)
+(\* indicates equal contribution, + indicates intern/student working with me, # indicates correspondence)
 
 - GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, 
 
