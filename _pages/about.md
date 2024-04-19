@@ -375,7 +375,7 @@ function toggleList() {
 	[**[PDF]**](https://aclanthology.org/P19-1183/) [**[Code]**](https://github.com/zfchenUnique/WSSTG)
 - Face Anti-Spoofing: Model Matters, So Does Data, 
 
-	Xiao Yang*, Wenhan Luo*, Linchao Bao, Yuan Gao, Dihong Gong, Shibao Zheng, Zhifeng Li, Wei Liu, 
+	Xiao Yang\*, Wenhan Luo\*, Linchao Bao, Yuan Gao, Dihong Gong, Shibao Zheng, Zhifeng Li, Wei Liu, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019.
 	
@@ -417,7 +417,7 @@ function toggleList() {
 	[**[OpenReview Link]**](https://openreview.net/forum?id=HkgYmhR9KX) [**[Code]**](https://github.com/zfw1226/active_tracking_rl) [**[Dataset]**](https://github.com/zfw1226/gym-unrealcv)
 - End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning, 
 
-	Wenhan Luo*, Peng Sun*, Fangwei Zhong*, Wei Liu, Tong Zhang, Yizhou Wang, 
+	Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang, 
 	
 	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 42, pp. 1317-1332, 2020.
 	
@@ -439,7 +439,7 @@ function toggleList() {
 	[**[PDF]**](https://arxiv.org/abs/1808.00278) [**[Code]**](https://github.com/liuzechun/Bi-Real-net)
 - End-to-end Active Object Tracking via Reinforcement Learning, 
 
-	Wenhan Luo*, Peng Sun*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang, 
+	Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang, 
 	
 	International Conference on Machine Learning (ICML), Sweden, 2018.
 	
