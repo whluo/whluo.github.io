@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+  
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Updates"
+    url: "/#updates"
+
+  - title: "Publications"
+    url: "/#publications-full-list"
+
+  - title: "Team"
+    url: "assets/team.html"
+
+  # - title: "Educations"
+  #   url: "/#-educations"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/#-internships"
