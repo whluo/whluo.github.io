@@ -37,6 +37,8 @@ I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 po
 I am interested in several topics in computer vision and machine learning. Specifically, my current research focuses on creative AI, such as image/video synthesis and enhancement. 
 
 # Updates
+- 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024] (https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024.
+- 2024/04: &nbsp; Paper to appear in IEEE TGRS.
 - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024.
 - 2024/03: &nbsp; Paper to appear in TCSVT.
 - 2024/03: &nbsp; Paper to appear in IJCV.
@@ -48,12 +50,12 @@ I am interested in several topics in computer vision and machine learning. Speci
 - 2023/12: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2024.
 - 2023/11: &nbsp; Paper to appear in TCSVT (under-display camera face image restoration).
 - 2023/10: &nbsp; Elected among Top 2% Scientists worldwide 2023 by Stanford University.
-- 2023/09: &nbsp; Paper accepted by NeurIPS 2023 (punctuation-level attacks fooling text models).
-- 2023/09: &nbsp; Paper to appear in TCSVT (image deblurring benchmark).
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2023/09: &nbsp; Paper accepted by NeurIPS 2023 (punctuation-level attacks fooling text models).
+  - 2023/09: &nbsp; Paper to appear in TCSVT (image deblurring benchmark).
   - 2023/09:&nbsp; Paper to appear in Pattern Recognition (image dehazing).
   - 2023/07:&nbsp; I was granted the CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, see the [news](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2023-07-31/794523.shtml).
   - 2023/07:&nbsp; Paper to apppear in TCSVT (all-in-one weather-degraded image restoration).
