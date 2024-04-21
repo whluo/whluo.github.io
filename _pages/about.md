@@ -37,7 +37,7 @@ I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 po
 I am interested in several topics in computer vision and machine learning. Specifically, my current research focuses on creative AI, such as image/video synthesis and enhancement. 
 
 # Updates
-- 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024] (https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024.
+- 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024.
 - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
 - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024.
 - 2024/03: &nbsp; Paper to appear in TCSVT.
