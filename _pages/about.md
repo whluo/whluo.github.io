@@ -26,11 +26,8 @@ redirect_from:
 </script>
 <p style="text-align:justify; text-justify:inter-ideograph;">
 <font color=a82e2e>
-I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 post-doc (starting at any time), multiple interns and RA (starting at any time, can be onsite or remote) to work with me at HKUST. Please <a href="mailto:whluo.china@gmail.com" target="_blank">Email</a> me (whluo.china AT gmail.com) with your CV and indicate the position you are interested. Please understand that, I will only respond to the candidate with a well fitting.</font></p>
+I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 post-doc (starting at any time), multiple interns and RA (starting at any time, can be onsite or remote) to work with me at HKUST. Please <a href="mailto:whluo.china@gmail.com" target="_blank">Email</a> me (whluo.china AT gmail.com) with your CV and indicate the position you are interested. Applicants seeking for PhD opportunities should have a strong track record in CVPR/ICCV/ECCV, NIPS/ICML/ICLR, or PAMI/IJCV. Candidates who are able to carry highest quality research independently are pursued.</font></p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;">
-<font color=a82e2e>
-Attention for seeking PhD opportunities: due to the large amount of emails I received everyday, I am unable to consider applicants who do not meet the following criteria: 1) Demonstrated experience in conducting research, preferably evidenced by publications in top-tier conferences or journals (the most feasible reference is CCF-A). 2) Alignment with our current research direction and expertise. If you do not meet these criteria, it is kindly requested that you refrain from sending me emails.</font></p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">I will be joining the Hong Kong University of Science and Technology (HKUST) as Associate Professor in 2024 spring/summer.</p>
 
