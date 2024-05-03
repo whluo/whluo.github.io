@@ -38,6 +38,8 @@ I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 po
 I am interested in several topics in computer vision and machine learning. Specifically, my current research focuses on creative AI, such as image/video synthesis and enhancement. 
 
 # Updates
+- 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
+- 2024/05: &nbsp; Paper accepted by ICML 2024.
 - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024.
 - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
 - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
@@ -49,12 +51,13 @@ I am interested in several topics in computer vision and machine learning. Speci
 - 2024/01: &nbsp; Paper accepted by ICLR 2024.
 - 2023/12: &nbsp; Paper to appear in TNNLS (blind face restoration).
 - 2023/12: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2024.
-- 2023/11: &nbsp; Paper to appear in TCSVT (under-display camera face image restoration).
-- 2023/10: &nbsp; Elected among Top 2% Scientists worldwide 2023 by Stanford University.
+
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2023/11: &nbsp; Paper to appear in TCSVT (under-display camera face image restoration).
+  - 2023/10: &nbsp; Elected among Top 2% Scientists worldwide 2023 by Stanford University.
   - 2023/09: &nbsp; Paper accepted by NeurIPS 2023 (punctuation-level attacks fooling text models).
   - 2023/09: &nbsp; Paper to appear in TCSVT (image deblurring benchmark).
   - 2023/09:&nbsp; Paper to appear in Pattern Recognition (image dehazing).
@@ -157,6 +160,14 @@ function toggleList() {
 
 # Publications [**[Full List]**](assets/publication.html)
 (\* indicates equal contribution, + indicates intern/student working with me, # indicates correspondence)
+
+- DetKDS: Knowledge Distillation Search for Object Detectors,
+
+	Lujun Li, Yufan Bao, Peijie Dong, Chuanguang Yang, Anggeng Li, Wenhan Luo, Qifeng Liu, Wei Xue, Yike Guo,
+	
+	International Conference on Machine Learning (ICML), 2024. 
+	
+	[**[PDF]**]() [**[Code]**]() 
 
 - GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, 
 
