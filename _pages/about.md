@@ -167,7 +167,7 @@ function toggleList() {
 	
 	International Conference on Machine Learning (ICML), 2024. 
 	
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**]() [**[Code]**](https://github.com/lliai/DetKDS) 
 
 - GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, 
 
@@ -183,7 +183,7 @@ function toggleList() {
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-	[**[PDF]**](https://arxiv.org/abs/2311.17532) [**[Code]**]() 
+	[**[PDF]**](https://arxiv.org/abs/2311.17532) [**[Code]**](https://xingqunqi-lab.github.io/Emo-Transition-Gesture/) 
 
 - Context-Aware Integration of Language and Visual References for Natural Language Tracking, 
 
@@ -191,7 +191,7 @@ function toggleList() {
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-	[**[PDF]**](https://arxiv.org/abs/2403.19975) [**[Code]**]() 
+	[**[PDF]**](https://arxiv.org/abs/2403.19975) [**[Code]**](https://github.com/twotwo2/QueryNLT) 
 
 - Aux-NAS: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost, 
 
@@ -199,7 +199,7 @@ function toggleList() {
 	
 	International Conference on Learning Representations (ICLR), 2024.
 
-	[**[PDF]**](https://openreview.net/forum?id=cINwAhrgLf&noteId=cINwAhrgLf) [**[Code]**]() 
+	[**[PDF]**](https://openreview.net/forum?id=cINwAhrgLf&noteId=cINwAhrgLf) [**[Code]**](https://github.com/ethanygao/Aux-NAS) 
 
 - Punctuation-level Attack: Single-shot and Single Punctuation Can Fool Text Models, 
 
