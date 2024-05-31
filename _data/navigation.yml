@@ -15,8 +15,8 @@ main:
   - title: "Team"
     url: "assets/team.html"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Services"
+    url: "assets/services.html"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
