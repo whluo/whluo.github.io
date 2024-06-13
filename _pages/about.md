@@ -24,18 +24,20 @@ redirect_from:
 		});
 	});
 </script>
+
+
+
+<p style="text-align:justify; text-justify:inter-ideograph;"> I am now an Associate Professor with the Hong Kong University of Science and Technology. Previously, I worked as an Associate Professor at Sun Yat-sen University, and an applied research scientist at Tencent, solving real-world problems using computer vision and machine learning techniques. Prior to Tencent, I worked for Amazon (A9) in Palo Alto, California, where I developed deep models for better visual search experience. Before that, I worked as a research scientist in Tencent AI Lab. The techniques I have developed/involved have been shipped to several products in Tencent such as WeChat, QQ, Tencent Video, and myapp. I received the Ph.D. degree from Imperial College London, UK, 2016, M.E. degree from Institute of Automation, Chinese Academy of Sciences, China, 2012 and B.E. degree from Huazhong University of Science and Technology, China, 2009. I have published over 80 peer-reviewed papers, most of which are published in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACL, ACMMM, ICLR, TPAMI, AI, IJCV, TIP. I received the CVPR 2019 Best Paper Nominee and was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have been elected among Top 2% Scientists worldwide 2023 by Stanford university. [<a href="assets/WenhanLuo_CV.pdf" target="_blank">CV</a>] </p>
+
+
 <p style="text-align:justify; text-justify:inter-ideograph;">
 <font color=a82e2e>
-I am looking for 3~4 PhD students (starting at 2024 autumn or 2025 spring), 1 post-doc (starting at any time), multiple interns and RA (starting at any time, can be onsite or remote) to work with me at HKUST. Please <a href="mailto:whluo.china@gmail.com" target="_blank">Email</a> me (whluo.china AT gmail.com) with your CV and indicate the position you are interested. Applicants seeking for PhD opportunities should have a strong track record in CVPR/ICCV/ECCV, NIPS/ICML/ICLR, or PAMI/IJCV. Candidates who are able to carry highest quality research independently are pursued.</font></p>
+I am looking for 1 post-doc (starting at any time), multiple remote interns to work with me conducting research on AIGC at HKUST. Please email me (whluo AT ust.hk) with your CV and indicate the position you are interested.</font></p>
 
-
-<p style="text-align:justify; text-justify:inter-ideograph;">I will be joining the Hong Kong University of Science and Technology (HKUST) as Associate Professor in 2024 spring/summer.</p>
-
-<p style="text-align:justify; text-justify:inter-ideograph;">I conduct research on creative AI. Previously, I worked as an Associate Professor at Sun Yat-sen University, and an applied research scientist at Tencent, solving real-world problems using computer vision and machine learning techniques. Prior to Tencent, I worked for Amazon (A9) in Palo Alto, California, where I developed deep models for better visual search experience. Before that, I worked as a research scientist in Tencent AI Lab. The techniques I have developed/involved have been shipped to several products in Tencent such as WeChat, QQ, Tencent Video, and myapp. I received the Ph.D. degree from Imperial College London, UK, 2016, M.E. degree from Institute of Automation, Chinese Academy of Sciences, China, 2012 and B.E. degree from Huazhong University of Science and Technology, China, 2009. I have published over 80 peer-reviewed papers, most of which are published in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACL, ACMMM, ICLR, TPAMI, AI, IJCV, TIP. I received the CVPR 2019 Best Paper Nominee and was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have been elected among Top 2% Scientists worldwide 2023 by Stanford university. [<a href="assets/WenhanLuo_CV.pdf" target="_blank">CV</a>] </p>
 
 # Research
 
-I am interested in several topics in computer vision and machine learning. Specifically, my current research focuses on creative AI, such as image/video synthesis and enhancement. 
+I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. 
 
 # Updates
 - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
