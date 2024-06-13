@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenhan Luo"
   avatar           : "images/wenhan_square.png"
-  bio              : "Incoming Associate Professor, HKUST"
+  bio              : "Associate Professor, HKUST"
   location         : "Clear Water Bay, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=g20Q12MAAAAJ"
-  email            : "whluo.china@gmail.com"
+  email            : "whluo@ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
