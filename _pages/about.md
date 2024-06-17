@@ -43,7 +43,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
 - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
 - 2024/05: &nbsp; Paper accepted by ICML 2024.
-- 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024.
+- 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
 - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
 - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
 - 2024/03: &nbsp; Paper to appear in TCSVT.
