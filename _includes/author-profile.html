@@ -20,7 +20,12 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li style="display: flex; align-items: center;">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true" style="margin-right: 8px; align-self: flex-start; transform: translateY(50%);"></i> 
+          <span style="white-space: normal;">
+            {{ author.location }}
+          </span>
+        </li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
