@@ -25,7 +25,7 @@ author:
   avatar           : "images/wenhan_square.png"
   bio              : "Associate Professor, HKUST"
   location         : "IAS Room 1006, HKUST, Clear Water Bay, Hong Kong"
-  employer         :
+  employer         : "HKUST"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=g20Q12MAAAAJ"
   email            : "whluo@ust.hk"
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : "linkedin username"
+  dblp             : "https://dblp.org/pid/64/9877.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
