@@ -164,6 +164,37 @@ function toggleList() {
 
 # Publications [**[Full List]**](assets/publication.html)
 (\* indicates equal contribution, + indicates intern/student working with me, # indicates correspondence)
+- OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models,
+
+    Zhe Kong, Yong Zhang#, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo#,
+
+	European Conference on Computer Vision (ECCV), 2024.
+
+	[**[PDF]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace]**](https://huggingface.co/spaces/Fucius/OMG)
+
+- Prompting Future Driven Diffusion Model for Hand Motion Prediction,
+
+    Bowen Tang, Kaihao Zhang#, Wenhan Luo#, Wei Liu, Hongdong Li,
+
+	European Conference on Computer Vision (ECCV), 2024.
+
+	[**[PDF]**]() [**[Code]**]() 
+
+- Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search,
+
+    Lujun Li, Haosen Sun, Shiwen Li, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Liu, Yike Guo,
+
+	European Conference on Computer Vision (ECCV), 2024.
+
+	[**[PDF]**]() [**[Code]**]() 
+
+- AttnZero: Efficient Attention Discovery for Vision Transformers,
+
+	Lujun Li, Zimian Wei, Peijie Dong, Wenhan Luo, Wei Xue, Qifeng Liu, Yike Guo,
+	
+	European Conference on Computer Vision (ECCV), 2024. 
+	
+	[**[PDF]**]() [**[Code]**]()  
 
 - DetKDS: Knowledge Distillation Search for Object Detectors,
 
