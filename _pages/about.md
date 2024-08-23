@@ -35,6 +35,7 @@ redirect_from:
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. 
 
 # Updates
+- 2024/08: &nbsp; Paper to appear in TCSVT.
 - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
 - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
 - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
@@ -47,13 +48,14 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/03: &nbsp; Paper to appear in IJCV.
 - 2024/02: &nbsp; Two papers accepted by CVPR 2024.
 - 2024/02: &nbsp; Paper accepted by COLING 2024 (multi-modal in-context learning).
-- 2024/02: &nbsp; I will be joining the Hong Kong University of Science and Technology (HKUST) as Associate Professor in 2024 spring/summer.
+
 
 
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/02: &nbsp; I will be joining the Hong Kong University of Science and Technology (HKUST) as Associate Professor in 2024 spring/summer.
   - 2024/01: &nbsp; Paper accepted by ICLR 2024.
   - 2023/12: &nbsp; Paper to appear in TNNLS (blind face restoration).
   - 2023/12: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2024.
