@@ -162,7 +162,7 @@ function toggleList() {
 
 
 # Publications [**[Full List]**](assets/publication.html)
-(\* indicates equal contribution, + indicates intern/student working with me, # indicates correspondence)
+(\* indicates equal contribution, # indicates correspondence)
 - Blind Face Video Restoration with Temporal Consistent Generative Prior and Degradation-Aware Prompt, 
 
 	Jingfan Tan, Hyunhee Park, Ying Zhang, Tao Wang, Kaihao Zhang, Xiangyu Kong, Pengwen Dai, Zikun Liu, Wenhan Luo#, 
@@ -324,21 +324,21 @@ function toggleList() {
 	[**[PDF]**](https://arxiv.org/abs/2201.10700)
 - Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior, 
 
-	Kaihao Zhang+, Wenhan Luo#, Yanjiang Yu, Wenqi Ren, Fang Zhao, Changsheng Li, Lin Ma, Wei Liu, Hongdong Li, 
+	Kaihao Zhang, Wenhan Luo#, Yanjiang Yu, Wenqi Ren, Fang Zhao, Changsheng Li, Lin Ma, Wei Liu, Hongdong Li, 
 	
 	International Journal of Computer Vision (IJCV), vol. 130, pp. 1754-1769, 2022.
 	
 	[**[PDF]**](https://arxiv.org/abs/2105.03830) [**[Github]**](https://github.com/HDCVLab/Stereo-Image-Deraining)
 - Aesthetic Text Logo Synthesis via Content-aware Layout Inferring, 
 
-	Yizhi Wang+, Guo Pu, Wenhan Luo, Yexin Wang, Pengfei Xiong, Hongwen Kang, Zhouhui Lian, 
+	Yizhi Wang, Guo Pu, Wenhan Luo, Yexin Wang, Pengfei Xiong, Hongwen Kang, Zhouhui Lian, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2022.
 
 	[**[PDF]**](https://arxiv.org/abs/2204.02701) [**[Dataset/Code]**](https://github.com/yizhiwang96/TextLogoLayout)
 - Enhanced Spatio-Temporal Interaction Learning for Video Deraining: A Faster and Better Framework, 
 
-	Kaihao Zhang+, Dongxu Li, Wenhan Luo, Wenqi Ren, Wei Liu, 
+	Kaihao Zhang, Dongxu Li, Wenhan Luo, Wenqi Ren, Wei Liu, 
 	
 	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 45, pp. 1287-1293, 2023.
 
@@ -346,7 +346,7 @@ function toggleList() {
 
 - Benchmarking Ultra-High-Definition Image Super-resolution, 
 
-	Kaihao Zhang+, Dongxu Li, Wenhan Luo, Wenqi Ren, Bjorn Stenger, Wei Liu, Hongdong Li, Ming-Hsuan Yang, 
+	Kaihao Zhang, Dongxu Li, Wenhan Luo, Wenqi Ren, Bjorn Stenger, Wei Liu, Hongdong Li, Ming-Hsuan Yang, 
 	
 	Proc. of International Conference on Computer Vision (ICCV), 2021.
 
@@ -355,7 +355,7 @@ function toggleList() {
 
 - Towards Distraction-Robust Active Visual Tracking, 
 
-	Fangwei Zhong+, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, 
+	Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, 
 	
 	International Conference on Machine Learning (ICML), 2021. 
 
@@ -363,7 +363,7 @@ function toggleList() {
 
 - Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis, 
 
-	Wen Liu+, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao, 
+	Wen Liu, Zhixin Piao, Zhi Tu, Wenhan Luo, Lin Ma, Shenghua Gao, 
 	
 	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 44, pp. 5114-5132, 2022.
 
@@ -379,7 +379,7 @@ function toggleList() {
 
 - Every Moment Matters: Detail-Aware Networks to Bring a Blurry Image Alive, 
 
-	Kaihao Zhang+, Wenhan Luo, Bjorn Stenger, Wenqi Ren, Lin Ma, Hongdong Li, 
+	Kaihao Zhang, Wenhan Luo, Bjorn Stenger, Wenqi Ren, Lin Ma, Hongdong Li, 
 	
 	The 28th ACM International Conference on Multimedia (ACM MM), 2020. (<font color="red">Oral</font>)
 	
@@ -387,14 +387,14 @@ function toggleList() {
 
 - Beyond Monocular Deraining: Stereo Image Deraining via Semantic Understanding, 
 	
-	Kaihao Zhang+, Wenhan Luo, Wenqi Ren, Jingwen Wang, Fang Zhao, Lin Ma, Hongdong Li, 
+	Kaihao Zhang, Wenhan Luo, Wenqi Ren, Jingwen Wang, Fang Zhao, Lin Ma, Hongdong Li, 
 	
 	European Conference on Computer Vision (ECCV), UK, 2020. 
 	
 	[**[PDF]**](https://link.springer.com/chapter/10.1007/978-3-030-58583-9_5) [**[Dataset (zzkd)]**](https://pan.baidu.com/s/1T2UplwARbLS5apIQiAnEXg) [**[Code (ehl2)]**](https://pan.baidu.com/s/1cCqYg2Au8yhEXkypPhkszA) [**[Results (yb4y)]**](https://pan.baidu.com/s/1BV2-TPL5GiTlDbxjSR0qyg) [**[Github]**](https://github.com/HDCVLab/Beyond-Monocular-Deraining)
 - Deblurring by Realistic Blurring, 
 
-	Kaihao Zhang+, Wenhan Luo, Yiran Zhong, Lin Ma, Bjorn Stenger, Wei Liu, Hongdong Li, 
+	Kaihao Zhang, Wenhan Luo, Yiran Zhong, Lin Ma, Bjorn Stenger, Wei Liu, Hongdong Li, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2020. (<font color="red">Oral</font>)
 	
@@ -409,21 +409,21 @@ function toggleList() {
 
 - AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking, 
 	
-	Fangwei Zhong+, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, 
+	Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, 
 	
 	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 43, pp. 1467-1482, 2021.
 	
 	[**[PDF]**](https://ieeexplore.ieee.org/document/8896000) [**[Code]**](https://github.com/zfw1226/active_tracking_rl) [**[Demo]**](https://drive.google.com/file/d/1KKswxtaZlcHUYJmMEmAGnvXXrVxZ5rQQ/view) [**[Dataset]**](https://github.com/zfw1226/gym-unrealcv)
 - Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis, 
 
-	Wen Liu+, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao, 
+	Wen Liu, Zhixin Piao, Jie Min, Wenhan Luo, Lin Ma, Shenghua Gao, 
 	
 	Proc. of International Conference on Computer Vision (ICCV), Korea, 2019.
 	
 	[**[PDF]**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf) [**[Project Page]**](https://svip-lab.github.io/project/impersonator.html) [**[Code]**](https://github.com/svip-lab/impersonator) [**[Dataset]**](https://svip-lab.github.io/dataset/iPER_dataset.html)
 - Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video, 
 
-	Zhenfang Chen+, Lin Ma#, Wenhan Luo#, Kwan-Yee K Wong, 
+	Zhenfang Chen, Lin Ma#, Wenhan Luo#, Kwan-Yee K Wong, 
 	
 	The 57th Annual Meeting of the Association for Computational Linguistics (ACL), Italy, 2019. (<font color="red">Oral</font>)
 	
@@ -437,35 +437,35 @@ function toggleList() {
 	[**[PDF]**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Face_Anti-Spoofing_Model_Matters_so_Does_Data_CVPR_2019_paper.pdf)
 - Learning Joint Gait Representation via Quintuplet Loss Minimization, 
 
-	Kaihao Zhang+, Wenhan Luo, Lin Ma, Wei Liu, Hongdong Li, 
+	Kaihao Zhang, Wenhan Luo, Lin Ma, Wei Liu, Hongdong Li, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019. (<font color="red">Oral</font>)
 	
 	[**[PDF]**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Learning_Joint_Gait_Representation_via_Quintuplet_Loss_Minimization_CVPR_2019_paper.pdf)
 - Residual Regression with Semantic Prior for Crowd Counting, 
 
-	Jia Wan+, Wenhan Luo, Baoyuan Wu, Antoni Chan, Wei Liu, 
+	Jia Wan, Wenhan Luo, Baoyuan Wu, Antoni Chan, Wei Liu, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019.
 	
 	[**[PDF]**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Residual_Regression_With_Semantic_Prior_for_Crowd_Counting_CVPR_2019_paper.pdf) [**[Project Page]**](http://visal.cs.cityu.edu.hk/research/residual_regression_counting/) [**[Code]**](https://github.com/jia-wan/ResidualRegression-pytorch)
 - Learning to Compose Dynamic Tree Structures for Visual Contexts, 
 
-	Kaihua Tang+, Hanwang Zhang, Baoyuan Wu, Wenhan Luo, Wei Liu, 
+	Kaihua Tang, Hanwang Zhang, Baoyuan Wu, Wenhan Luo, Wei Liu, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019. (<font color="red">Oral & Best Paper Nominee</font>)
 	
 	[**[arXiv]**](https://arxiv.org/abs/1812.01880) [**[Code]**](https://github.com/KaihuaTang/VCTree-Scene-Graph-Generation)
 - Bi-Real Net: Binarizing Deep Network towards Real-Network Performance, 
 
-	Zechun Liu+, Wenhan Luo, Baoyuan Wu, Xin Yang, Wei Liu, Kwang-Ting Cheng, 
+	Zechun Liu, Wenhan Luo, Baoyuan Wu, Xin Yang, Wei Liu, Kwang-Ting Cheng, 
 	
 	International Journal of Computer Vision (IJCV), vol. 128, pp. 202-219, 2020.
 	
 	[**[PDF]**](https://link.springer.com/epdf/10.1007/s11263-019-01227-8?author_access_token=NdkBwSULpW7AE0CplLNsQ_e4RwlQNchNByi7wbcMAY4zuJMqwdUG6xUI3neO68YE0HVQMhRVozqO0gNwgOgvcveiex4uWiK7xaxvf-r1oNmb1LdDYZoo4NSrjwdzGTAXBVNftZN-W65j0eIc1yxdag%3D%3D) [**[arXiv]**](https://arxiv.org/abs/1811.01335) [**[Code]**](https://github.com/liuzechun/Bi-Real-net)
 - AD-VAT: An Asymmetric Dueling Mechanism for Learning Visual Active Tracking, 
 
-	Fangwei Zhong+, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, 
+	Fangwei Zhong, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang, 
 	
 	International Conference on Learning Representations (ICLR), New Orleans, USA, 2019.
 	
@@ -479,7 +479,7 @@ function toggleList() {
 	[**[arXiv]**](https://arxiv.org/abs/1808.03405) [**[Project Page]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018) [**[Code]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
 - Cousin Network Guided Sketch Recognition via Latent Attribute Warehouse, 
 
-	Kaihao Zhang+, Wenhan Luo#, Lin Ma, Hongdong Li, 
+	Kaihao Zhang, Wenhan Luo#, Lin Ma, Hongdong Li, 
 	
 	Proc. of the Association for the Advancement of Artificial Intelligence (AAAI), Hawaii, USA, 2019. (<font color="red">Spotlight</font>)
 	
@@ -487,7 +487,7 @@ function toggleList() {
 
 - Bi-Real Net: Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm, 
 
-	Zechun Liu+, Baoyuan Wu, Wenhan Luo, Xin Yang, Wei Liu, Kwang-Ting Cheng, 
+	Zechun Liu, Baoyuan Wu, Wenhan Luo, Xin Yang, Wei Liu, Kwang-Ting Cheng, 
 	
 	European Conference on Computer Vision (ECCV), Germany, 2018.
 	
@@ -501,14 +501,14 @@ function toggleList() {
 	[**[PDF]**](https://arxiv.org/abs/1705.10561) [**[Project Page]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018) [**[Code]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018) [**[Demo]**](https://drive.google.com/file/d/19Tz2rfF6i1CcTonOoS-xy1nIgx1qcQ9x/view)
 - Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks, 
 
-	Wei Xiong+, Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo, 
+	Wei Xiong, Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2018.
 	
 	[**[arXiv]**](https://arxiv.org/abs/1709.07592) [**[Project Page]**](https://sites.google.com/site/whluoimperial/mdgan) [**[Code]**](https://github.com/weixiong-ur/mdgan) [**[Dataset]**](https://drive.google.com/file/d/1xWLiU-MBGN7MrsFHQm4_yXmfHBsMbJQo/view)
 - Real-Time Neural Style Transfer for Videos, 
 
-	Haozhi Huang+, Hao Wang, Wenhan Luo, Lin Ma, Wenhao Jiang, Xiaolong Zhu, Zhifeng Li, Wei Liu, 
+	Haozhi Huang, Hao Wang, Wenhan Luo, Lin Ma, Wenhao Jiang, Xiaolong Zhu, Zhifeng Li, Wei Liu, 
 	
 	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2017.
 	
