@@ -35,6 +35,7 @@ redirect_from:
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. 
 
 # Updates
+- 2024/09: &nbsp; Paper to appear in IJCV.
 - 2024/08: &nbsp; Paper to appear in TCSVT.
 - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
 - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
@@ -47,14 +48,12 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/03: &nbsp; Paper to appear in TCSVT.
 - 2024/03: &nbsp; Paper to appear in IJCV.
 - 2024/02: &nbsp; Two papers accepted by CVPR 2024.
-- 2024/02: &nbsp; Paper accepted by COLING 2024 (multi-modal in-context learning).
-
-
 
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/02: &nbsp; Paper accepted by COLING 2024 (multi-modal in-context learning).
   - 2024/02: &nbsp; I will be joining the Hong Kong University of Science and Technology (HKUST) as Associate Professor in 2024 spring/summer.
   - 2024/01: &nbsp; Paper accepted by ICLR 2024.
   - 2023/12: &nbsp; Paper to appear in TNNLS (blind face restoration).
@@ -163,6 +162,14 @@ function toggleList() {
 
 # Publications [**[Full List]**](assets/publication.html)
 (\* indicates equal contribution, # indicates correspondence)
+- APPTracker+: Displacement Uncertainty for Occlusion Handling in Low-Frame-Rate Multiple Object Tracking, 
+
+	Tao Zhou, Qi Ye, Wenhan Luo, Haizhou Ran, Zhiguo Shi, Jiming Chen, 
+	
+	International Journal of Computer Vision (IJCV), to appear.
+	
+	[**[PDF]**]()
+
 - Blind Face Video Restoration with Temporal Consistent Generative Prior and Degradation-Aware Prompt, 
 
 	Jingfan Tan, Hyunhee Park, Ying Zhang, Tao Wang, Kaihao Zhang, Xiangyu Kong, Pengwen Dai, Zikun Liu, Wenhan Luo#, 
