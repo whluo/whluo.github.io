@@ -38,6 +38,7 @@ Openings: I am looking for post-doc/RA/Phd students, to conduct research on fine
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. 
 
 # Updates
+- 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
 - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
 - 2024/09: &nbsp; Paper to appear in TKDE.
 - 2024/09: &nbsp; Paper to appear in IJCV.
@@ -50,7 +51,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
 - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
 - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
-- 2024/03: &nbsp; Paper to appear in TCSVT.
+
 
 
 
@@ -58,6 +59,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/03: &nbsp; Paper to appear in TCSVT.
   - 2024/03: &nbsp; Paper to appear in IJCV.
   - 2024/02: &nbsp; Two papers accepted by CVPR 2024.
   - 2024/02: &nbsp; Paper accepted by COLING 2024 (multi-modal in-context learning).
