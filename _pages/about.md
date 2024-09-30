@@ -171,6 +171,22 @@ function toggleList() {
 
 # Publications [**[Full List]**](assets/publication.html)
 (\* indicates equal contribution, # indicates correspondence)
+- Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention,
+
+    Peng Li, Yuan Liu, Xiaoxiao Long, Feihu Zhang, Cheng Lin, Mengfei Li, Xingqun Qi, Shanghang Zhang, Wenhan Luo, Ping Tan, Wenping Wang, Qifeng Liu, Yike Guo,
+
+	Neural Information Processing Systems (NeurIPS), 2024.
+
+	[**[PDF]**](https://arxiv.org/abs/2405.11616) [**[Code]**](https://github.com/pengHTYX/Era3D) [**[Project]**](https://penghtyx.github.io/Era3D/) [**[HuggingFace]**](https://huggingface.co/spaces/pengHTYX/Era3D_MV_demo) [**[Model]**](https://huggingface.co/pengHTYX/MacLab-Era3D-512-6view/tree/main)
+
+- Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models, 
+
+	Lujun Li, Peijie Dong, Zhenheng Tang, Xiang Liu, Qiang Wang, Wenhan Luo, Wei Xue, Qifeng Liu, Xiaowen Chu, Yike Guo, 
+	
+	Neural Information Processing Systems (NeurIPS), 2024.
+	
+	[**[PDF]**]()
+
 - DREAM: Domain-agnostic Reverse Engineering Attributes of Black-box Model, 
 
 	Rongqing Li, Jiaqi Yu, Changsheng Li, Wenhan Luo, Ye Yuan, Guoren Wang, 
