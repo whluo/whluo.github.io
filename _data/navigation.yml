@@ -14,6 +14,9 @@ main:
 
   - title: "Team"
     url: "assets/team.html"
+  
+  - title: "Teaching"
+    url: "assets/teaching.html"
 
   - title: "Services"
     url: "assets/services.html"
