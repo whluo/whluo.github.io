@@ -193,7 +193,7 @@ function toggleList() {
 	
 	IEEE Transactions on Knowledge and Data Engineering (TKDE), to appear.
 	
-	[**[PDF]**]()
+	[**[PDF]**](https://www.computer.org/csdl/journal/tk/5555/01/10684294/20mFzDIL4OI)
 
 - APPTracker+: Displacement Uncertainty for Occlusion Handling in Low-Frame-Rate Multiple Object Tracking, 
 
@@ -225,7 +225,7 @@ function toggleList() {
 
 	European Conference on Computer Vision (ECCV), 2024.
 
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01102.pdf) [**[Code]**]() 
 
 - Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search,
 
@@ -233,7 +233,7 @@ function toggleList() {
 
 	European Conference on Computer Vision (ECCV), 2024.
 
-	[**[PDF]**]() [**[Code]**]() 
+	[**[PDF]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00668.pdf) [**[Code]**](https://github.com/lliai/Auto-GAS) 
 
 - AttnZero: Efficient Attention Discovery for Vision Transformers,
 
@@ -241,7 +241,7 @@ function toggleList() {
 	
 	European Conference on Computer Vision (ECCV), 2024. 
 	
-	[**[PDF]**]() [**[Code]**]()  
+	[**[PDF]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00666.pdf) [**[Code]**](https://github.com/lliai/AttnZero)  
 
 - DetKDS: Knowledge Distillation Search for Object Detectors,
 
@@ -249,15 +249,15 @@ function toggleList() {
 	
 	International Conference on Machine Learning (ICML), 2024. 
 	
-	[**[PDF]**]() [**[Code]**](https://github.com/lliai/DetKDS) 
+	[**[PDF]**](https://openreview.net/pdf/fcca99569d2c5ab0653814d94a6625b2e27ef2a2.pdf) [**[Code]**](https://github.com/lliai/DetKDS) 
 
 - GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, 
 
 	Tao Wang, Kaihao Zhang, Ziqian Shao, Wenhan Luo#, Bjorn Stenger, Tong Lu, Tae-Kyun Kim, Wei Liu, Hongdong Li,
 	
-	International Journal of Computer Vision (IJCV), to appear.
+	International Journal of Computer Vision (IJCV), vol. 132, pp. 4541-4563, 2024.
 	
-	[**[PDF]**](https://arxiv.org/abs/2305.17863) [**[Code]**]() 
+	[**[PDF]**](https://arxiv.org/abs/2305.17863) [**[Code]**](https://github.com/TaoWangzj/GridFormer) 
 
 - Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation, 
 
