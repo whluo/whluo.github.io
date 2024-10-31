@@ -34,6 +34,7 @@ redirect_from:
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. 
 
 # Updates
+- 2024/10: &nbsp; I was awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
 - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
 - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
 - 2024/09: &nbsp; Paper to appear in TKDE.
@@ -46,7 +47,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/05: &nbsp; Paper accepted by ICML 2024.
 - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
 - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
-- 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
+
 
 
 
@@ -55,6 +56,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
   - 2024/03: &nbsp; Paper to appear in TCSVT.
   - 2024/03: &nbsp; Paper to appear in IJCV.
   - 2024/02: &nbsp; Two papers accepted by CVPR 2024.
@@ -67,9 +69,9 @@ I conduct research on creative AI. Specifically, my current research focuses on 
   - 2023/10: &nbsp; Elected among Top 2% Scientists worldwide 2023 by Stanford University.
   - 2023/09: &nbsp; Paper accepted by NeurIPS 2023 (punctuation-level attacks fooling text models).
   - 2023/09: &nbsp; Paper to appear in TCSVT (image deblurring benchmark).
-  - 2023/09:&nbsp; Paper to appear in Pattern Recognition (image dehazing).
-  - 2023/07:&nbsp; I was granted the CCF-Tencent Rhino-Bird Young Faculty Open Research Fund, see the [news](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2023-07-31/794523.shtml).
-  - 2023/07:&nbsp; Paper to apppear in TCSVT (all-in-one weather-degraded image restoration).
+  - 2023/09: &nbsp; Paper to appear in Pattern Recognition (image dehazing).
+  - 2023/07: &nbsp; I was granted the CCF-Tencent Rhino-Bird Faculty Research Fund, see the [news](https://www.ccf.org.cn/Collaboration/Enterprise_Fund/News/tx/2023-07-31/794523.shtml).
+  - 2023/07: &nbsp; Paper to apppear in TCSVT (all-in-one weather-degraded image restoration).
   - 2023/07:&nbsp; Four papers accepted by ICCV 2023.
   - 2023/07:&nbsp; Invited to serve as a member of Senior Program Committe (SPC) for AAAI 2024.
   - 2023/06:&nbsp; Paper accepted by IROS 2023 (hand interaction tracking).
@@ -84,7 +86,6 @@ I conduct research on creative AI. Specifically, my current research focuses on 
   - 2022/08:&nbsp; Paper accepted by WACV2023 (few-shot object counting).
   - 2022/07:&nbsp; I joined Sun Yat-sen University as an associate professor.
   - 2022/06:&nbsp; Paper accepted by ACM MM 2022 (multi-object tracking).
-  - 2022/06:&nbsp; Paper accepted by KBS (generative model for facial expression recognition).
   - 2022/05:&nbsp; TPAMI paper accepted (face hallucination).
   - 2022/05:&nbsp; Paper accepted by IJCV (image deblurring survey).
   - 2022/04:&nbsp; Paper accepted by IJCV (image deraining).
@@ -118,7 +119,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
   - 2019/07:&nbsp; The code of our ACL2019 paper is released. Check it [here](https://github.com/zfchenUnique/WSSTG).
   - 2019/07:&nbsp; The code of our ICLR2019 paper is released. Check it [here](https://github.com/zfw1226/active_tracking_rl).
   - 2019/05:&nbsp; Join Amazon in California as a research scientist.
-  - 2019/06:&nbsp;Our CVPR paper entitled "Learning to Compose Dynamic Tree Structures for Visual Context" is selected as one of the best paper finalists (50 out of the 1294 accepted papers in CVPR2019).
+  - 2019/06:&nbsp; Our CVPR paper entitled "Learning to Compose Dynamic Tree Structures for Visual Context" is selected as one of the best paper finalists (50 out of the 1294 accepted papers in CVPR2019).
   - 2019/05:&nbsp; One paper of video grounding to appear in ACL2019 as a long paper, and oral presentation.
   - 2019/05:&nbsp; Serve as program committee member of the workshop of [Vision Meets Drones 2019: A Challenge](http://aiskyeye.com/) in conjunction with ICCV2019.
   - 2019/03:&nbsp; Four papers (2 orals + 2 posters) to appear in CVPR2019.
