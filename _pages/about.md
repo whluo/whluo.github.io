@@ -34,7 +34,7 @@ redirect_from:
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. 
 
 # Updates
-- 2024/10: &nbsp; I was awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
+- 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
 - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
 - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
 - 2024/09: &nbsp; Paper to appear in TKDE.
