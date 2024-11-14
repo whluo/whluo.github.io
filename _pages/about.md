@@ -166,7 +166,7 @@ function toggleList() {
 </script>
 
 
-# Publications [**[Full List]**](assets/publication.html)
+# Publications [**[More]**](assets/publication.html)
 (\* indicates equal contribution, # indicates correspondence)
 - Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention,
 
