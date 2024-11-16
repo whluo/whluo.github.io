@@ -10,7 +10,7 @@ main:
     url: "/#updates"
 
   - title: "Publications"
-    url: "/#publications-full-list"
+    url: "/#Publications"
 
   - title: "Team"
     url: "assets/team.html"
