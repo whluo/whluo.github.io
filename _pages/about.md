@@ -37,7 +37,6 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <img src='../assets/logos/Samsung_Logo.png' align="center" width="200" hspace="20">
 <img src='../assets/logos/Tencent_Logo.png' align="center" width="200" hspace="20">
 <img src='../assets/logos/NSFC_logo.png' align="center" width="200" hspace="20">
-<br>
 <img src='../assets/logos/GD_logo.jpg' align="center" width="200" hspace="20">
 <img src='../assets/logos/SZ_logo.jpeg' align="center" width="200" hspace="20">
 <img src='../assets/logos/Huawei_logo.png' align="center" width="200" hspace="20">
