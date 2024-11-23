@@ -198,7 +198,7 @@ function toggleList() {
 
 	Rongqing Li, Jiaqi Yu, Changsheng Li, Wenhan Luo, Ye Yuan, Guoren Wang, 
 	
-	IEEE Transactions on Knowledge and Data Engineering (TKDE), to appear.
+	IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 36, pp. 8009-8022, 2024.
 	
 	[**[PDF]**](https://www.computer.org/csdl/journal/tk/5555/01/10684294/20mFzDIL4OI)
 
