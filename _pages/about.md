@@ -44,6 +44,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
+- 2024/11: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2025.
 - 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
 - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
 - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
@@ -56,7 +57,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
 - 2024/05: &nbsp; Paper accepted by ICML 2024.
 - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
-- 2024/04: &nbsp; Paper to appear in IEEE TGRS.
+
 
 
 
@@ -66,6 +67,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
   - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
   - 2024/03: &nbsp; Paper to appear in TCSVT.
   - 2024/03: &nbsp; Paper to appear in IJCV.
