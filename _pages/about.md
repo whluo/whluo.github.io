@@ -29,6 +29,9 @@ redirect_from:
 
 <p style="text-align:justify; text-justify:inter-ideograph;"> I am now an Associate Professor at Division of Arts and Machine Creativity (AMC) and Division of Emerging Interdisciplinary Areas (EMIA) with the Hong Kong University of Science and Technology (HKUST). Previously, I worked as an Associate Professor at Sun Yat-sen University, and an applied research scientist at Tencent, solving real-world problems using computer vision and machine learning techniques. Prior to Tencent, I worked for Amazon (A9) in Palo Alto, California, where I developed deep models for better visual search experience. Before that, I worked as a research scientist in Tencent AI Lab. The techniques I have developed/involved have been shipped to several products in Tencent such as WeChat, QQ, Tencent Video, and myapp. I received the Ph.D. degree from Imperial College London, UK, 2016, M.E. degree from Institute of Automation, Chinese Academy of Sciences, China, 2012 and B.E. degree from Huazhong University of Science and Technology, China, 2009. I have published over 80 peer-reviewed papers, most of which are published in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACL, ACMMM, ICLR, TPAMI, AI, IJCV, TIP. I received the CVPR 2019 Best Paper Nominee and was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have been elected among Top 2% Scientists worldwide (2023 & 2024) by Stanford/Elsevier. [<a href="assets/WenhanLuo_CV.pdf" target="_blank">CV</a>] </p>
 
+
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>I invite graduated PhD students from top universities in Mainland China to apply for the Hong Kong Scholars Program 2025 (香江学者计划) and work with me. Please check the Join Us page for details.</font></p>
+
 # Research
 
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video synthesis and enhancement. My research is supported by the following sponsors/agencies.
@@ -44,6 +47,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
+- 2024/11: &nbsp; Invited to serve as Area Chair for ICML 2025.
 - 2024/11: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2025.
 - 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
 - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
@@ -56,7 +60,6 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
 - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
 - 2024/05: &nbsp; Paper accepted by ICML 2024.
-- 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
 
 
 
@@ -67,6 +70,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
   - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
   - 2024/03: &nbsp; Together with Samsung, we win the 2rd place in the competition of Few-shot RAW Image Denoising @ [MIPI2024](https://mipi-challenge.org/MIPI2024/) in conjunction with CVPR2024, see the [award](https://mipi-challenge.org/MIPI2024/award_certificates_2024.pdf).
   - 2024/03: &nbsp; Paper to appear in TCSVT.
