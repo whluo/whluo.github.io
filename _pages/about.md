@@ -25,7 +25,7 @@ redirect_from:
 	});
 </script>
 
-
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <p style="text-align:justify; text-justify:inter-ideograph;"> I am now an Associate Professor at Division of Arts and Machine Creativity (AMC) and Division of Emerging Interdisciplinary Areas (EMIA) with the Hong Kong University of Science and Technology (HKUST). Previously, I worked as an Associate Professor at Sun Yat-sen University, and an applied research scientist at Tencent, solving real-world problems using computer vision and machine learning techniques. Prior to Tencent, I worked for Amazon (A9) in Palo Alto, California, where I developed deep models for better visual search experience. Before that, I worked as a research scientist in Tencent AI Lab. The techniques I have developed/involved have been shipped to several products in Tencent such as WeChat, QQ, Tencent Video, and myapp. I received the Ph.D. degree from Imperial College London, UK, 2016, M.E. degree from Institute of Automation, Chinese Academy of Sciences, China, 2012 and B.E. degree from Huazhong University of Science and Technology, China, 2009. I have published over 80 peer-reviewed papers, most of which are published in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACL, ACMMM, ICLR, TPAMI, AI, IJCV, TIP. I received the CVPR 2019 Best Paper Nominee and was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have been elected among Top 2% Scientists worldwide (2023 & 2024) by Stanford/Elsevier. [<a href="assets/WenhanLuo_CV.pdf" target="_blank">CV</a>] </p>
 
@@ -599,6 +599,17 @@ function toggleList() {
 	
 	[**[PDF]**](http://ieeexplore.ieee.org/document/6143947/)
 
+
+ <p class="footer">
+                  Last updated:
+                  <script>
+                    t = new Date(document.lastModified).toLocaleDateString()
+                    document.write(t);
+                  </script>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <span id="busuanzi_container_site_pv"># Views: <span id="busuanzi_value_site_pv"></span>, # Visitors:
+                    <span id="busuanzi_value_site_uv"></span></span> (Since Dec 11, 2024)
+                </p>
 
 <script>
 function pubtoggleList() {
