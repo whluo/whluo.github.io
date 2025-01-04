@@ -604,7 +604,7 @@ function toggleList() {
  <p class="footer">
                   Last updated:
                   <script>
-                    t = new Date(document.lastModified).toLocaleDateString()
+                    t = new Date(document.lastModified).toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric"})
                     document.write(t);
                   </script>
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
