@@ -50,6 +50,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
+- 2025/01: &nbsp; Two papers accepted by ICLR 2025.
 - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
 - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
 - 2024/12: &nbsp; Invited to serve as Area Chair for ICML 2025.
@@ -63,7 +64,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
 - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
 - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
-- 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
+
 
 
 
@@ -75,6 +76,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
   - 2024/05: &nbsp; Paper accepted by ICML 2024.
   - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
   - 2024/04: &nbsp; Paper to appear in IEEE TGRS.
