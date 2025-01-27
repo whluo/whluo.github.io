@@ -50,6 +50,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
+- 2025/01: &nbsp; I will serve as Associate Editor for IEEE TIP.
 - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
 - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
 - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
@@ -63,7 +64,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/08: &nbsp; Paper to appear in TCSVT.
 - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
 - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
-- 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
+
 
 
 
@@ -76,6 +77,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
   - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
   - 2024/05: &nbsp; Paper accepted by ICML 2024.
   - 2024/04: &nbsp; Our team win two championship awards in the two tracks of [NTIRE 2024](https://cvlai.net/ntire/2024/) challenges (Bracketing Image Restoration and Enhancement Challenge - Track 1 & 2) in conjunction with CVPR2024, see the [award](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf).
@@ -192,6 +194,22 @@ function toggleList() {
 
 # Publications [**[More]**](assets/publication.html)
 (\* indicates equal contribution, # indicates correspondence)
+- Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling,
+
+    Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum, Wei Liu, Mengyang Liu, Wenhan Luo#,
+
+	International Conference on Learning Representations (ICLR), 2025
+
+	[**[PDF]**]() [**[Project]**]() [**[Benchmark]**]() [**[API in Tencent Cloud]**](https://cloud.tencent.com/product/vclm)
+
+- Co<sup>3</sup>Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion,
+
+    Xingqun Qi, Yatian Wang, Hengyuan Zhang, Jiahao Pan, Wei Xue, Shanghang Zhang, Wenhan Luo, Qifeng Liu, Yike Guo,
+
+	International Conference on Learning Representations (ICLR), 2025
+
+	[**[PDF]**]() [**[Project]**]()
+
 - Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts,
 
     Yunxin Li, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang,
