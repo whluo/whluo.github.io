@@ -633,12 +633,6 @@ function toggleList() {
 
 
  <p class="footer">
-                  Last updated:
-                  <script>
-                    t = new Date(document.lastModified).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric"})
-                    document.write(t);
-                  </script>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <span id="busuanzi_container_site_pv"># Views: <span id="busuanzi_value_site_pv"></span> (Since Dec 11, 2024)</span>
                 </p>
 
