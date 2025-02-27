@@ -50,6 +50,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
+- 2025/02: &nbsp; Three papers accepted by CVPR 2025.
 - 2025/01: &nbsp; I will serve as Associate Editor for IEEE TIP.
 - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
 - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
@@ -63,7 +64,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/09: &nbsp; Paper to appear in IJCV.
 - 2024/08: &nbsp; Paper to appear in TCSVT.
 - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
-- 2024/07: &nbsp; Four papers accepted by ECCV 2024.
+
 
 
 
@@ -77,6 +78,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
   - 2024/06: &nbsp; Invited to serve as Senior Program Committe member (SPC) for AAAI 2025.
   - 2024/05: &nbsp; Invited to serve as Area Chair for BMVC 2024.
   - 2024/05: &nbsp; Paper accepted by ICML 2024.
