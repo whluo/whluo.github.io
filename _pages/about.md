@@ -49,7 +49,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 # Updates
 - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
-- 2025/01: &nbsp; I will serve as Associate Editor for IEEE TIP.
+- 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
 - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
 - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
 - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
