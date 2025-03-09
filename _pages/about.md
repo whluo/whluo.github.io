@@ -194,13 +194,37 @@ function toggleList() {
 
 # Publications [**[More]**](assets/publication.html)
 (\* indicates equal contribution, # indicates correspondence)
+- StyleMaster: Stylize Your Video with Artistic Generation and Translation,
+
+    Zixuan Ye, Huijuan Huang#, Xintao Wang, Pengfei Wan, Di Zhang, Wenhan Luo#,
+
+	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+	[**[PDF]**](https://arxiv.org/abs/2412.07744) [**[Project]**](https://zixuan-ye.github.io/stylemaster/) [**[Code]**](https://github.com/KwaiVGI/StyleMaster)
+
+- PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion and Explicit Remeshing,
+
+    Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Xingqun Qi, Xiaowei Chi, Siyu Xia, Yan-Pei Cao, Wei Xue, Wenhan Luo, Yike Guo,
+
+	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+	[**[PDF]**](https://arxiv.org/pdf/2409.10141) [**[Project]**](https://penghtyx.github.io/PSHuman/) [**[Code]**](https://github.com/pengHTYX/PSHuman)[**[HuggingFace]**](https://huggingface.co/spaces/fffiloni/PSHuman)
+
+- OSV: One Step is Enough for High-Quality Image to Video Generation,
+
+    Xiaofeng Mao, Zhengkai Jiang, Fu-Yun Wang, Jiangning Zhang, Hao Chen, Mingmin Chi, Yabiao Wang, Wenhan Luo,
+
+	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+	[**[PDF]**]()
+
 - Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling,
 
     Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum, Wei Liu, Mengyang Liu, Wenhan Luo#,
 
 	International Conference on Learning Representations (ICLR), 2025
 
-	[**[PDF]**]() [**[Project]**]() [**[Benchmark]**]() [**[API in Tencent Cloud]**](https://cloud.tencent.com/product/vclm)
+	[**[PDF]**](https://openreview.net/forum?id=aqlzXgXwWa) [**[Project]**](https://multi-animation.github.io/) [**[API in Tencent Cloud]**](https://cloud.tencent.com/product/vclm)
 
 - Co<sup>3</sup>Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion,
 
@@ -540,7 +564,7 @@ function toggleList() {
 
 	Kaihua Tang, Hanwang Zhang, Baoyuan Wu, Wenhan Luo, Wei Liu, 
 	
-	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019. (<font color="red">Oral & Best Paper Nominee</font>)
+	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019. (<font color="red">Oral & Best Paper Finalist</font>)
 	
 	[**[arXiv]**](https://arxiv.org/abs/1812.01880) [**[Code]**](https://github.com/KaihuaTang/VCTree-Scene-Graph-Generation)
 - Bi-Real Net: Binarizing Deep Network towards Real-Network Performance, 
