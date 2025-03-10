@@ -33,6 +33,8 @@ redirect_from:
 
 <p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>I invite graduated PhD students from top universities in Mainland China to apply for the Hong Kong Scholars Program 2025 (香江学者计划) and work with me. Please check the Join Us page for details.</font></p>
 
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>Two PHD opennings in model distillation and 3D vision. Please check the Join Us page for details.</font></p>
+
 # Research
 
 I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors/agencies.
