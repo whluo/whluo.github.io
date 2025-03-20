@@ -666,7 +666,7 @@ function toggleList() {
 I have studied/interned/worked in the following affiliations.
 
 
-<img src='../assets/logos/HKUST.png' align="center" width="40" hspace="5">
+<img src='../assets/logos/HKUST.png' href="https://hkust.edu.hk/" align="center" width="40" hspace="5">
 <img src='../assets/logos/SYSU.png' align="center" width="50" hspace="5">
 <img src='../assets/logos/Tencent.png' align="center" width="70" hspace="5">
 <img src='../assets/logos/Amazon.png' align="center" width="70" hspace="5">
