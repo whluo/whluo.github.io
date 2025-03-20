@@ -661,6 +661,23 @@ function toggleList() {
 	[**[PDF]**](http://ieeexplore.ieee.org/document/6143947/)
 
 
+# Experience
+
+I have studied/interned/worked in the following affiliations.
+
+
+<img src='../assets/logos/HKUST.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/SYSU.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/Tencent.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/Amazon.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/IBM.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/Imperial.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/MSRA.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/CASIA.jpg' align="center" width="200" hspace="20">
+<img src='../assets/logos/HUST.png' align="center" width="200" hspace="20">
+<img src='../assets/logos/Middleschool.jpg' align="center" width="200" hspace="20">
+
+
  <p class="footer">
                   <span id="busuanzi_container_site_pv"># Views: <span id="busuanzi_value_site_pv"></span> (Since Dec 11, 2024)</span>
                 </p>
