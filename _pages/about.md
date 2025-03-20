@@ -666,16 +666,16 @@ function toggleList() {
 I have studied/interned/worked in the following affiliations.
 
 
-<img src='../assets/logos/HKUST.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/SYSU.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/Tencent.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/Amazon.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/IBM.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/Imperial.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/MSRA.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/CASIA.jpg' align="center" height="100" hspace="20">
-<img src='../assets/logos/HUST.png' align="center" height="100" hspace="20">
-<img src='../assets/logos/Middleschool.jpg' align="center" height="100" hspace="20">
+<img src='../assets/logos/HKUST.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/SYSU.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/Tencent.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/Amazon.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/IBM.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/Imperial.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/MSRA.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/CASIA.jpg' align="center" width="100" hspace="20">
+<img src='../assets/logos/HUST.png' align="center" width="100" hspace="20">
+<img src='../assets/logos/Middleschool.jpg' align="center" width="100" hspace="20">
 
 
  <p class="footer">
