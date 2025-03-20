@@ -667,14 +667,14 @@ I have studied/interned/worked in the following affiliations.
 
 
 <a href="https://hkust.edu.hk/"><img src='../assets/logos/HKUST.png' align="center" width="40" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University"><img src='../assets/logos/SYSU.png' align="center" width="50" hspace="5"></a>
+<a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University"><img src='../assets/logos/SYSU.png' align="center" width="60" hspace="5"></a>
 <a href="https://en.wikipedia.org/wiki/Tencent"><img src='../assets/logos/Tencent.png' align="center" width="70" hspace="5"></a>
 <a href="https://en.wikipedia.org/wiki/Amazon_(company)"><img src='../assets/logos/Amazon.png' align="center" width="70" hspace="5"></a>
-<a href="https://research.ibm.com/"><img src='../assets/logos/IBM.png' align="center" width="70" hspace="5"></a>
+<a href="https://research.ibm.com/"><img src='../assets/logos/IBM.png' align="center" width="80" hspace="5"></a>
 <a href="https://www.imperial.ac.uk/"><img src='../assets/logos/Imperial.png' align="center" width="50" hspace="5"></a>
-<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"><img src='../assets/logos/MSRA.png' align="center" width="90" hspace="5"></a>
+<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"><img src='../assets/logos/MSRA.png' align="center" width="100" hspace="5"></a>
 <a href="http://english.ia.cas.cn/"><img src='../assets/logos/CASIA.jpg' align="center" width="60" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology"><img src='../assets/logos/HUST.png' align="center" width="70" hspace="5"></a>
+<a href="https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology"><img src='../assets/logos/HUST.png' align="center" width="80" hspace="5"></a>
 <img src='../assets/logos/Middleschool.jpg' align="center" width="60" hspace="5">
 
 
