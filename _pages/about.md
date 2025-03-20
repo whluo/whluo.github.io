@@ -668,7 +668,7 @@ I have studied/interned/worked in the following affiliations.
 
 <a href="https://hkust.edu.hk/"><img src='../assets/logos/HKUST.png' align="center" width="40" hspace="5"></a>
 <a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University"><img src='../assets/logos/SYSU.png' align="center" width="60" hspace="5"></a>
-<a href="https://en.wikipedia.org/wiki/Tencent"><img src='../assets/logos/Tencent.png' align="center" width="70" hspace="5"></a>
+<a href="https://en.wikipedia.org/wiki/Tencent"><img src='../assets/logos/Tencent.png' align="center" width="80" hspace="5"></a>
 <a href="https://en.wikipedia.org/wiki/Amazon_(company)"><img src='../assets/logos/Amazon.png' align="center" width="70" hspace="5"></a>
 <a href="https://research.ibm.com/"><img src='../assets/logos/IBM.png' align="center" width="80" hspace="5"></a>
 <a href="https://www.imperial.ac.uk/"><img src='../assets/logos/Imperial.png' align="center" width="50" hspace="5"></a>

@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: "assets/publication.html"
 
+  - title: "Experience"
+    url: "/#experience"
+
   - title: "People"
     url: "assets/people.html"
   
