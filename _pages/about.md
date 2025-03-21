@@ -50,6 +50,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
+- 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
 - 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
 - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
 - 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
@@ -62,23 +63,13 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
 - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
 - 2024/09: &nbsp; Paper to appear in TKDE.
-- 2024/09: &nbsp; Paper to appear in IJCV.
-
-
-
-
-
-
-
-
-
-
 
 
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/09: &nbsp; Paper to appear in IJCV.
   - 2024/08: &nbsp; Paper to appear in TCSVT.
   - 2024/07: &nbsp; Paper accepted by ACM MM 2024.
   - 2024/07: &nbsp; Four papers accepted by ECCV 2024.
