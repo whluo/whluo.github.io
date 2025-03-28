@@ -192,6 +192,14 @@ function toggleList() {
 
 # Publications [**[More]**](assets/publication.html)
 (\* indicates equal contribution, # indicates correspondence)
+- MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration,
+
+    Zhi Jin, Yuwei Qiu, Kaihao Zhang, Hongdong Li, Wenhan Luo#,
+
+	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear.
+
+	[**[PDF]**](https://arxiv.org/abs/2501.04486) [**[Code]**](https://github.com/FVL2020/MB-TaylorFormerV2)
+
 - StyleMaster: Stylize Your Video with Artistic Generation and Translation,
 
     Zixuan Ye, Huijuan Huang#, Xintao Wang, Pengfei Wan, Di Zhang, Wenhan Luo#,
