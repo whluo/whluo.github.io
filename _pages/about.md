@@ -33,7 +33,7 @@ redirect_from:
 
 <p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>I invite graduated PhD students from top universities in Mainland China to apply for the Hong Kong Scholars Program 2025 (香江学者计划) and work with me. Please check the Join Us page for details.</font></p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>Two PHD opennings in model distillation and 3D vision. Please check the Join Us page for details.</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e><s>Two</s> One PHD opennings in model distillation <s>and 3D vision</s>. Please check the Join Us page for details.</font></p>
 
 # Research
 
