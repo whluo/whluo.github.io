@@ -50,7 +50,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 
 
 # Updates
-
+- 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
 - 2025/04: &nbsp; I will serve as Area Chair for NeurIPS 2025.
 - 2025/03: &nbsp; Content restoration works to appear in TPAMI and PR.
 - 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
@@ -63,7 +63,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 - 2024/12: &nbsp; Invited to serve as Area Chair for ICML 2025.
 - ~~2024/11: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2025.~~
 - 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
-- 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
+
 
 
 
@@ -72,7 +72,7 @@ I conduct research on creative AI. Specifically, my current research focuses on 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
-  
+  - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
   - 2024/09: &nbsp; Elected among Stanford/Elsevier Top 2% Scientists List 2024.
   - 2024/09: &nbsp; Paper to appear in TKDE. 
   - 2024/09: &nbsp; Paper to appear in IJCV.
