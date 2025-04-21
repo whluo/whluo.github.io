@@ -37,7 +37,7 @@ redirect_from:
 
 # Research
 
-I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors/agencies.
+<p style="text-align:justify; text-justify:inter-ideograph;"> I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors/agencies. </p>
 
 
 <img src='../assets/logos/Samsung_Logo.png' align="center" width="200" hspace="20">
