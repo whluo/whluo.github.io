@@ -32,7 +32,7 @@ redirect_from:
 <p style="text-align:justify; text-justify:inter-ideograph;"> I have published over 80 peer-reviewed papers in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, SIGGRAPH, AAAI, ACL, ACMMM, ICLR, TPAMI, AI, IJCV. My work is selected into the CVPR 2019 Best Paper Finalist and I was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have served as Associate Editor for IEEE Transactions on Image Processing, Neurocomputing, IET Computer Vision, Guest Editor for CVIU, Area Chair for NeurIPS 2025, ACM MM 2025, ICML 2025, IJCAI 2025, IJCNN 2025, BMVC 2024, and Senior Program Committee member for AAAI and IJCAI, regular reviewer for top conferences and journals like TPAMI, IJCV, CVPR, ICML, ICCV. I have been elected among Top 2% Scientists worldwide (2023 & 2024) by Stanford/Elsevier. [<a href="assets/WenhanLuo_CV.pdf" target="_blank">Curriculum Vitae</a>] [<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wenhan-luo-whluo" target="_blank">HKUST Profile</a>] </p>
 
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e><s>Two</s> Multiple PHD opennings in model distillation, AIGC (image and video generation), content restoration and enhancement are available. Please check the Join Us page for details.</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>Multiple PHD opennings in model distillation, AIGC (image and video generation), content restoration and enhancement are available. Please check the Join Us page for details.</font></p>
 
 # Research
 
