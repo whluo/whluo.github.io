@@ -49,6 +49,7 @@ redirect_from:
 
 
 # Updates
+- 2025/05: &nbsp; Papers to appear in TVCG and ACL 2025.
 - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
 - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
 - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
@@ -61,7 +62,7 @@ redirect_from:
 - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
 - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
 - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
-- 2024/12: &nbsp; Invited to serve as Area Chair for ICML 2025.
+
 
 
 
@@ -70,6 +71,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2024/12: &nbsp; Invited to serve as Area Chair for ICML 2025.
   - ~~2024/11: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2025.~~
   - 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
   - 2024/09: &nbsp; Two Papers accepted by NeurIPS 2024.
