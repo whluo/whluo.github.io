@@ -49,7 +49,7 @@ redirect_from:
 
 
 # Updates
-- 2025/05: &nbsp; Papers to appear in TVCG and ACL 2025.
+- 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
 - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
 - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
 - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
