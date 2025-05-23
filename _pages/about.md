@@ -342,6 +342,14 @@ function toggleList() {
 	
 	[**[PDF]**](https://ojs.aaai.org/index.php/AAAI/article/view/4955)
 
+- Trajectories as Topics: Multi-Object Tracking by Topic Discovery, 
+
+	Wenhan Luo, Bjorn Stenger, Xiaowei Zhao, Tae-Kyun Kim, 
+	
+	IEEE Trans. on Image Processing (TIP), vol. 28, no. 1, pp. 240-252, 2019. 
+
+	[**[PDF]**](https://ieeexplore.ieee.org/document/8444759)
+
 - End-to-end Active Object Tracking via Reinforcement Learning, 
 
 	Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang, 
