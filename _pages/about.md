@@ -196,183 +196,118 @@ function toggleList() {
 </script>
 
 
-# Publications [**[More]**](assets/publication.html)
-(\* indicates equal contribution, # indicates correspondence)
-- DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution,
+# Recent Work [**[More]**](assets/publication.html)
+<table
+    style="width:100%;max-width:900px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
+    <tbody>
+     
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/unic_demo.gif' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>UNIC: Unified In-Context Video Editing</papertitle>,
+                  <br>Zixuan Ye, Xuanhua He, Quande Liu, Qiulin Wang, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Qifeng Chen, Wenhan Luo,<br>
+                  <i>arXiv:2506.04216.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2506.04216" target="_blank">arXiv</a>]
+                  [<a href="https://zixuan-ye.github.io/UNIC/" target="_blank">Project Page</a>]
+      </td>
+    </tr>
 
-    Zhe Kong, Le Li, Yong Zhang#, Feng Gao, Shaoshu Yang, Tao Wang, Kaihao Zhang, Zhuoliang Kang, Xiaoming Wei, Guanying Chen, Wenhan Luo#,
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/multitalk.gif' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</papertitle>,
+                  <br>Zhe Kong, Feng Gao, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo,<br>
+                  <i>arXiv:2505.22647.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2505.22647" target="_blank">arXiv</a>]
+                  [<a href="https://meigen-ai.github.io/multi-talk/" target="_blank">Project Page</a>]
+                  [<a href="https://github.com/MeiGen-AI/MultiTalk/" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social">
+      </td>
+    </tr>
 
-	ACM SIGGRAPH, 2025.
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/materialmvp.gif' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion</papertitle>,
+                  <br>Zebin He, Mingxin Yang, Shuhui Yang, Yixuan Tang, Tao Wang, Kaihao Zhang, Guanying Chen, Liu Yuhong, Jie Jiang, Chunchao Guo, Wenhan Luo,<br>
+                  <i>arXiv:2503.10289, 2025.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2503.10289" target="_blank">arXiv</a>]
+                  [<a href="https://zebinhe.github.io/MaterialMVP/" target="_blank">Project Page</a>]
+                  [<a href="https://github.com/ZebinHe/MaterialMVP" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP?style=social">
+      </td>
+    </tr>
 
-	[**[PDF]**]() [**[Project]**]() [**[Code]**]()
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/dam-vsr-siggraph.jpg' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution</papertitle>,
+                  <br>Zhe Kong, Le Li, Yong Zhang, Feng Gao, Shaoshu Yang, Tao Wang, Kaihao Zhang, Zhuoliang Kang, Xiaoming Wei, Guanying Chen, Wenhan Luo,<br>
+                  <i>ACM SIGGRAPH, 2025.</i>
+                  <br>
+                  [<a href="" target="_blank">PDF</a>]
+                  [<a href="https://kongzhecn.github.io/projects/dam-vsr/" target="_blank">Project Page</a>]
+      </td>
+    </tr>
 
-- MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration,
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/mbtaylorv2.jpg' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration</papertitle>,
+                  <br>Zhi Jin, Yuwei Qiu, Kaihao Zhang, Hongdong Li, Wenhan Luo,<br>
+                  <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2501.04486" target="_blank">arXiv</a>]
+                  [<a href="https://github.com/FVL2020/MB-TaylorFormerV2" target="_blank">Code</a>]
+      </td>
+    </tr>
 
-    Zhi Jin, Yuwei Qiu, Kaihao Zhang, Hongdong Li, Wenhan Luo#,
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/stylemaster.gif' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>StyleMaster: Stylize Your Video with Artistic Generation and Translation</papertitle>,
+                  <br>Zixuan Ye, Huijuan Huang, Xintao Wang, Pengfei Wan, Di Zhang, Wenhan Luo,<br>
+                  <i>Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2025.</i>
+                  <br>
+                  [<a href="https://arxiv.org/pdf/2412.07744" target="_blank">arXiv</a>]
+                  [<a href="https://github.com/KwaiVGI/StyleMaster" target="_blank">Github</a>]
+                  [<a href="https://zixuan-ye.github.io/stylemaster/" target="_blank">Project Page</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/KwaiVGI/StyleMaster?style=social">
+      </td>
+    </tr>
 
-	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear.
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/pose_animation.gif' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling</papertitle>,
+        <br>Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum, Wei Liu, Mengyang Liu, Wenhan Luo,<br>
+        <i>International Conference on Learning Representations (ICLR), 2025.</i>
+        <br>
+        [<a href="https://openreview.net/forum?id=aqlzXgXwWa" target="_blank">PDF</a>]
+        [<a href="https://multi-animation.github.io/" target="_blank">Project Page</a>]
+        [<a href="https://cloud.tencent.com/product/vclm" target="_blank">API in Tencent Cloud</a>]
+      </td>
+    </tr>
 
-	[**[PDF]**](https://arxiv.org/abs/2501.04486) [**[Code]**](https://github.com/FVL2020/MB-TaylorFormerV2)
-
-- StyleMaster: Stylize Your Video with Artistic Generation and Translation,
-
-    Zixuan Ye, Huijuan Huang#, Xintao Wang, Pengfei Wan, Di Zhang, Wenhan Luo#,
-
-	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2025.
-
-	[**[PDF]**](https://arxiv.org/abs/2412.07744) [**[Project]**](https://zixuan-ye.github.io/stylemaster/) [**[Code]**](https://github.com/KwaiVGI/StyleMaster)
-
-- Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling,
-
-    Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum, Wei Liu, Mengyang Liu, Wenhan Luo#,
-
-	International Conference on Learning Representations (ICLR), 2025
-
-	[**[PDF]**](https://openreview.net/forum?id=aqlzXgXwWa) [**[Project]**](https://multi-animation.github.io/) [**[API in Tencent Cloud]**](https://cloud.tencent.com/product/vclm)
-
-- Blind Face Video Restoration with Temporal Consistent Generative Prior and Degradation-Aware Prompt, 
-
-	Jingfan Tan, Hyunhee Park, Ying Zhang, Tao Wang, Kaihao Zhang, Xiangyu Kong, Pengwen Dai, Zikun Liu, Wenhan Luo#, 
-	
-	The 32rd ACM International Conference on Multimedia (ACM MM), 2024.
-	
-	[**[PDF]**]()
-
-- OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models,
-
-    Zhe Kong, Yong Zhang#, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo#,
-
-	European Conference on Computer Vision (ECCV), 2024.
-
-	[**[PDF]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace]**](https://huggingface.co/spaces/Fucius/OMG)
-
-- Prompting Future Driven Diffusion Model for Hand Motion Prediction,
-
-    Bowen Tang, Kaihao Zhang#, Wenhan Luo#, Wei Liu, Hongdong Li,
-
-	European Conference on Computer Vision (ECCV), 2024.
-
-	[**[PDF]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01102.pdf) [**[Code]**]() 
-
-- GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, 
-
-	Tao Wang, Kaihao Zhang, Ziqian Shao, Wenhan Luo#, Bjorn Stenger, Tong Lu, Tae-Kyun Kim, Wei Liu, Hongdong Li,
-	
-	International Journal of Computer Vision (IJCV), vol. 132, pp. 4541-4563, 2024.
-	
-	[**[PDF]**](https://arxiv.org/abs/2305.17863) [**[Code]**](https://github.com/TaoWangzj/GridFormer) 
-
-- Punctuation-level Attack: Single-shot and Single Punctuation Can Fool Text Models, 
-
-	Wenqiang Wang, Chongyang Du, Tao Wang, Kaihao Zhang, Wenhan Luo#, Lin Ma, Wei Liu, Xiaochun Cao, 
-	
-	Neural Information Processing Systems (NeurIPS), 2023. 
-
-	[**[PDF]**](https://openreview.net/pdf?id=ir6WWkFR80)
-
-- FnF Attack: Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives, 
-
-	Tao Zhou, Qi Ye#, Wenhan Luo#, Kaihao Zhang, Zhiguo Shi, Jiming Chen, 
-	
-	Proc. of International Conference on Computer Vision (ICCV), Paris, France, 2023.
-
-	[**[PDF]**](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_FF_Attack_Adversarial_Attack_against_Multiple_Object_Trackers_by_Inducing_ICCV_2023_paper.pdf) [**[Project]**](https://infzhou.github.io/FnFAttack/index.html) [**[Code]**](https://github.com/infZhou/FnF_Attack)
-
-- Robust Single Image Reflection Removal Against Adversarial Attacks, 
-
-	Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo#, Zhaoxin Fan, Wenqi Ren, Jianfeng Lu, 
-	
-	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2023.
-
-	[**[PDF]**](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf) [**[Code]**](https://github.com/ZhenboSong/RobustSIRR)
-
-- Benchmarking Ultra-High-Definition Low-Light Image Enhancement and A Transformer Method, 
-
-	Tao Wang, Kaihao Zhang, Tianrun Shen, Wenhan Luo#, Bjorn Stenger, Tong Lu#, 
-	
-	Proc. of the Association for the Advancement of Artificial Intelligence (AAAI), USA, 2023. (<font color="red">Oral</font>)
-
-	[**[PDF]**](https://arxiv.org/abs/2212.11548) [**[Code]**](https://github.com/TaoWangzj/LLFormer)
-
-- Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior, 
-
-	Kaihao Zhang, Wenhan Luo#, Yanjiang Yu, Wenqi Ren, Fang Zhao, Changsheng Li, Lin Ma, Wei Liu, Hongdong Li, 
-	
-	International Journal of Computer Vision (IJCV), vol. 130, pp. 1754-1769, 2022.
-	
-	[**[PDF]**](https://arxiv.org/abs/2105.03830) [**[Github]**](https://github.com/HDCVLab/Stereo-Image-Deraining)
-
-- Multiple Object Tracking: A Literature Review, 
-
-	Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Tae-Kyun. Kim, 
-	
-	Artificial Intelligence, vol. 293, pp. 103448, 2021. 
-
-	[**[PDF]**](https://www.sciencedirect.com/science/article/pii/S0004370220301958)
-
-- Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video, 
-
-	Zhenfang Chen, Lin Ma#, Wenhan Luo#, Kwan-Yee K Wong, 
-	
-	The 57th Annual Meeting of the Association for Computational Linguistics (ACL), Italy, 2019. (<font color="red">Oral</font>)
-	
-	[**[PDF]**](https://aclanthology.org/P19-1183/) [**[Code]**](https://github.com/zfchenUnique/WSSTG)
-
-- Face Anti-Spoofing: Model Matters, So Does Data, 
-
-	Xiao Yang\*, Wenhan Luo\*, Linchao Bao, Yuan Gao, Dihong Gong, Shibao Zheng, Zhifeng Li, Wei Liu, 
-	
-	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), USA, 2019.
-	
-	[**[PDF]**](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Face_Anti-Spoofing_Model_Matters_so_Does_Data_CVPR_2019_paper.pdf)
-
-- End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning, 
-
-	Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang, 
-	
-	IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 42, pp. 1317-1332, 2020.
-	
-	[**[arXiv]**](https://arxiv.org/abs/1808.03405) [**[Project Page]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018) [**[Code]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
-
-- Cousin Network Guided Sketch Recognition via Latent Attribute Warehouse, 
-
-	Kaihao Zhang, Wenhan Luo#, Lin Ma, Hongdong Li, 
-	
-	Proc. of the Association for the Advancement of Artificial Intelligence (AAAI), Hawaii, USA, 2019. (<font color="red">Spotlight</font>)
-	
-	[**[PDF]**](https://ojs.aaai.org/index.php/AAAI/article/view/4955)
-
-- Trajectories as Topics: Multi-Object Tracking by Topic Discovery, 
-
-	Wenhan Luo, Bjorn Stenger, Xiaowei Zhao, Tae-Kyun Kim, 
-	
-	IEEE Trans. on Image Processing (TIP), vol. 28, no. 1, pp. 240-252, 2019. 
-
-	[**[PDF]**](https://ieeexplore.ieee.org/document/8444759)
-
-- End-to-end Active Object Tracking via Reinforcement Learning, 
-
-	Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang, 
-	
-	International Conference on Machine Learning (ICML), Sweden, 2018.
-	
-	[**[PDF]**](https://arxiv.org/abs/1705.10561) [**[Project Page]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018) [**[Code]**](https://sites.google.com/site/whluoimperial/active_tracking_icml2018) [**[Demo]**](https://drive.google.com/file/d/19Tz2rfF6i1CcTonOoS-xy1nIgx1qcQ9x/view)
-
-- Automatic Topic Discovery for Multi-object Tracking, 
-
-	Wenhan Luo, Bjorn Stenger, Xiaowei Zhao, Tae-Kyun Kim, 
-	
-	Proc. of the Association for the Advancement of Artificial Intelligence (AAAI), Austin, Texas, USA, 2015. (<font color="red">Oral</font>)
-	
-	[**[PDF]**](https://ojs.aaai.org/index.php/AAAI/article/view/9789)
-	
-- Bi-label Propagation for Generic Multiple Object Tracking, 
-
-	Wenhan Luo, Tae-Kyun Kim, Bjorn Stenger, Xiaowei Zhao, Roberto Cipolla, 
-	
-	Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Columbus, Ohio, USA, 2014.
-	
-	[**[PDF]**](https://ieeexplore.ieee.org/document/6909564)
+  </tbody>
+</table>
 
 # Experience
 
