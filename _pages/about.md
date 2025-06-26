@@ -39,16 +39,25 @@ redirect_from:
 <p style="text-align:justify; text-justify:inter-ideograph;"> I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors/agencies. </p>
 
 
-<img src='../assets/logos/Samsung_Logo.png' align="center" width="200" hspace="20">
-<img src='../assets/logos/Tencent_Logo.png' align="center" width="200" hspace="20">
-<img src='../assets/logos/metax_logo.png' align="center" width="200" hspace="20">
-<img src='../assets/logos/Huawei_logo.png' align="center" width="100" hspace="20">
-<img src='../assets/logos/NSFC_logo.png' align="center" width="200" hspace="20">
-<img src='../assets/logos/GD_logo.png' align="center" width="200" hspace="20">
-<img src='../assets/logos/SZ_logo.jpeg' align="center" width="200" hspace="20">
+<p><img src="../assets/logos/Samsung_Logo.png" width="180" hspace="10"/>
+<img src="../assets/logos/Tencent_Logo.png" width="200" hspace="10"/>
+<img src="../assets/logos/metax_logo.png" width="200" hspace="10"/>
+<img src="../assets/logos/Huawei_logo.png" width="100" hspace="10"/>
+<img src="../assets/logos/ByteDance_logo.png" width="200" hspace="10"/>
+<img src="../assets/logos/Tencent_AILAB_logo.jpg" width="200" hspace="10"/>
+<img src="../assets/logos/WienerIntelligence_logo.png" width="125" />
+<br>
+<img src="../assets/logos/NSFC_logo.png"  width="150" hspace="10"/>
+<img src="../assets/logos/GD_logo.png"  width="180" hspace="10"/>
+<img src="../assets/logos/SZ_logo.jpeg"  width="180" hspace="10"/>
+<img src="../assets/logos/QDBST.png" width="200" />
+</p>
 
 
 # Updates
+- 2025/05: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
+- 2025/05: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
+- 2025/05: &nbsp; Paper to appear in TKDE.
 - 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
 - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
 - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
@@ -59,18 +68,15 @@ redirect_from:
 - 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
 - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
 - 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
-- 2025/01: &nbsp; Two papers accepted by ICLR 2025.
-- 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
-- 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
-
-
-
 
 
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
+  - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
+  - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
   - 2024/12: &nbsp; Invited to serve as Area Chair for ICML 2025.
   - ~~2024/11: &nbsp; Invited to serve as Senior Program Committe member (SPC) for IJCAI 2025.~~
   - 2024/10: &nbsp; Awarded the CCF-Tencent Rhino-Bird Faculty Fund Excellence Award, see the [news](https://mp.weixin.qq.com/s/90ajLg_GxG5dsap7s4qasw).
@@ -231,6 +237,7 @@ function toggleList() {
       </td>
     </tr>
 
+
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/materialmvp.gif' style="max-width: 100%; width: 100%;">
@@ -238,7 +245,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion</papertitle>,
                   <br>Zebin He, Mingxin Yang, Shuhui Yang, Yixuan Tang, Tao Wang, Kaihao Zhang, Guanying Chen, Liu Yuhong, Jie Jiang, Chunchao Guo, Wenhan Luo,<br>
-                  <i>arXiv:2503.10289, 2025.</i>
+                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2503.10289" target="_blank">arXiv</a>]
                   [<a href="https://zebinhe.github.io/MaterialMVP/" target="_blank">Project Page</a>]
@@ -246,6 +253,21 @@ function toggleList() {
                   <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/ZebinHe/MaterialMVP?style=social">
       </td>
     </tr>
+
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/moerl_iccv2025.png' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration</papertitle>,
+                  <br>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo,<br>
+                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025.</i>
+                  <br>
+      </td>
+    </tr>
+
+
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
