@@ -46,6 +46,7 @@ redirect_from:
 <img src="../assets/logos/ByteDance_logo.png" width="200" hspace="10"/>
 <img src="../assets/logos/Tencent_AILAB_logo.jpg" width="200" hspace="10"/>
 <img src="../assets/logos/WienerIntelligence_logo.png" width="125" />
+<img src="../assets/logos/VideoRebirth.png" width="200" />
 <br>
 <img src="../assets/logos/NSFC_logo.png"  width="150" hspace="10"/>
 <img src="../assets/logos/GD_logo.png"  width="180" hspace="10"/>
