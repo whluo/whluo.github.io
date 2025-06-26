@@ -245,7 +245,7 @@ function toggleList() {
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion</papertitle>,
-                  <br>Zebin He, Mingxin Yang, Shuhui Yang, Yixuan Tang, Tao Wang, Kaihao Zhang, Guanying Chen, Liu Yuhong, Jie Jiang, Chunchao Guo, Wenhan Luo,<br>
+                  <br>Zebin He, Mingxin Yang, Shuhui Yang, Yixuan Tang, Tao Wang, Kaihao Zhang, Guanying Chen, Yuhong Liu, Jie Jiang, Chunchao Guo, Wenhan Luo,<br>
                   <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2503.10289" target="_blank">arXiv</a>]
