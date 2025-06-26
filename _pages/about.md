@@ -55,9 +55,9 @@ redirect_from:
 
 
 # Updates
-- 2025/05: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
-- 2025/05: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
-- 2025/05: &nbsp; Paper to appear in TKDE.
+- 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
+- 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
+- 2025/06: &nbsp; Paper to appear in TKDE.
 - 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
 - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
 - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
