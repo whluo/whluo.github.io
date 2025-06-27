@@ -56,6 +56,7 @@ redirect_from:
 
 
 # Updates
+- 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
 - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
 - 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
 - 2025/06: &nbsp; Paper to appear in TKDE.
@@ -68,13 +69,11 @@ redirect_from:
 - 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
 - 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
 - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
-- 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
-
-
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
   - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
   - 2025/01: &nbsp; Uni-MoE accepted by TPAMI.
   - 2024/12: &nbsp; Invited to serve as Area Chair for IJCAI 2025.
