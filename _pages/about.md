@@ -234,6 +234,8 @@ function toggleList() {
                   [<a href="https://arxiv.org/abs/2505.22647" target="_blank">arXiv</a>]
                   [<a href="https://meigen-ai.github.io/multi-talk/" target="_blank">Project Page</a>]
                   [<a href="https://github.com/MeiGen-AI/MultiTalk/" target="_blank">Code</a>]
+                  [<a href="https://huggingface.co/MeiGen-AI/MeiGen-MultiTalk" target="_blank">Hugging Face Model</a>]
+                  [<a href="https://huggingface.co/spaces/fffiloni/Meigen-MultiTalk" target="_blank">Gradio</a>]
                   <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social">
       </td>
     </tr>
