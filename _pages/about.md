@@ -240,7 +240,6 @@ function toggleList() {
       </td>
     </tr>
 
-
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/materialmvp.gif' style="max-width: 100%; width: 100%;">
@@ -257,7 +256,6 @@ function toggleList() {
       </td>
     </tr>
 
-
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/moerl_iccv2025.png' style="max-width: 100%; width: 100%;">
@@ -270,8 +268,6 @@ function toggleList() {
       </td>
     </tr>
 
-
-
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/dam-vsr-siggraph.jpg' style="max-width: 100%; width: 100%;">
@@ -283,6 +279,7 @@ function toggleList() {
                   <br>
                   [<a href="" target="_blank">PDF</a>]
                   [<a href="https://kongzhecn.github.io/projects/dam-vsr/" target="_blank">Project Page</a>]
+                  [<a href="https://github.com/kongzhecn/DAM-VSR" target="_blank">Code</a>]
       </td>
     </tr>
 
