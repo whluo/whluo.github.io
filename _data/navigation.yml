@@ -15,8 +15,8 @@ main:
   - title: "Experience"
     url: "/#experience"
 
-  - title: "People"
-    url: "assets/people.html"
+  - title: "C4 Group"
+    url: "https://c4g-hkust.github.io/"
   
   - title: "Teaching"
     url: "assets/teaching.html"
