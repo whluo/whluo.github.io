@@ -57,7 +57,7 @@ redirect_from:
 
 
 # Updates
-- 2025/07: &nbsp; Our group webpage is now live.
+- 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
 - 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
 - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
 - 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
