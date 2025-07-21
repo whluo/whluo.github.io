@@ -33,7 +33,9 @@ redirect_from:
 
 <p>[<a href="assets/WenhanLuo_CV.pdf" target="_blank">Curriculum Vitae</a>] [<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wenhan-luo-whluo" target="_blank">HKUST Profile</a>] </p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>Multiple PHD opennings in efficient large model, AIGC (image and video generation), content restoration and enhancement are available. Please check the Join Us page for details.</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e><s>Multiple PHD opennings in efficient large model, AIGC (image and video generation), content restoration and enhancement are available. Please check the Join Us page for details.</s></font></p>
+
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>All the vacancies for 26 Spring/Fall have been filled.</font></p>
 
 # Research
 
