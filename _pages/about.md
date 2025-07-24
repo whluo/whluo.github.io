@@ -72,12 +72,13 @@ redirect_from:
 - 2025/04: &nbsp; I will serve as Area Chair for NeurIPS 2025.
 - 2025/03: &nbsp; Content restoration works to appear in TPAMI and PR.
 - 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
-- 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
+
 
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
   - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
   - 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
   - 2025/01: &nbsp; Two papers accepted by ICLR 2025.
@@ -252,7 +253,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion</papertitle>,
                   <br>Zebin He, Mingxin Yang, Shuhui Yang, Yixuan Tang, Tao Wang, Kaihao Zhang, Guanying Chen, Yuhong Liu, Jie Jiang, Chunchao Guo, Wenhan Luo,<br>
-                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025.</i>
+                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025. (<strong><font color="red">Highlight</font></strong>)</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2503.10289" target="_blank">arXiv</a>]
                   [<a href="https://zebinhe.github.io/MaterialMVP/" target="_blank">Project Page</a>]
