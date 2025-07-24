@@ -59,6 +59,7 @@ redirect_from:
 
 
 # Updates
+- 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
 - 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
 - 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
 - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
