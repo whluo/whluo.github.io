@@ -296,7 +296,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration</papertitle>,
                   <br>Zhi Jin, Yuwei Qiu, Kaihao Zhang, Hongdong Li, Wenhan Luo,<br>
-                  <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear.</i>
+                  <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, pp. 5990–6005, 2025.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2501.04486" target="_blank">arXiv</a>]
                   [<a href="https://github.com/FVL2020/MB-TaylorFormerV2" target="_blank">Code</a>]
