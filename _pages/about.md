@@ -59,6 +59,7 @@ redirect_from:
 
 
 # Updates
+- 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
 - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
 - 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
 - 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
@@ -71,13 +72,14 @@ redirect_from:
 - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
 - 2025/04: &nbsp; I will serve as Area Chair for NeurIPS 2025.
 - 2025/03: &nbsp; Content restoration works to appear in TPAMI and PR.
-- 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
+
 
 
 
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
   - 2025/03: &nbsp; I will serve as Area Chair for ACM Multimedia 2025.
   - 2025/02: &nbsp; Three papers accepted by CVPR 2025.
   - 2025/01: &nbsp; I will serve as Associate Editor for IEEE Transactions on Image Processing.
