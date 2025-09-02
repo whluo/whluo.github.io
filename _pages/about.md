@@ -250,6 +250,22 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <video src="../assets/multimedia/infinitetalk.mp4" width="320" controls="" loop=""></video>
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing</papertitle>,
+                  <br>Shaoshu Yang*, Zhe Kong*, Feng Gao*, Meng Cheng*, Xiangyu Liu*, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei,<br>
+                  <i>arXiv:2506.04216.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2508.14033" target="_blank">arXiv</a>]
+                  [<a href="https://meigen-ai.github.io/InfiniteTalk/" target="_blank">Project Page</a>]
+                  [<a href="https://github.com/MeiGen-AI/InfiniteTalk" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social">
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/materialmvp.gif' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
