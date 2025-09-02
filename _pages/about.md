@@ -255,7 +255,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing</papertitle>,
                   <br>Shaoshu Yang*, Zhe Kong*, Feng Gao*, Meng Cheng*, Xiangyu Liu*, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei,<br>
-                  <i>arXiv:2506.04216.</i>
+                  <i>arXiv:2508.14033.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2508.14033" target="_blank">arXiv</a>]
                   [<a href="https://meigen-ai.github.io/InfiniteTalk/" target="_blank">Project Page</a>]
