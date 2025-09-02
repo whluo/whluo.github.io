@@ -304,6 +304,7 @@ function toggleList() {
                   [<a href="" target="_blank">PDF</a>]
                   [<a href="https://kongzhecn.github.io/projects/dam-vsr/" target="_blank">Project Page</a>]
                   [<a href="https://github.com/kongzhecn/DAM-VSR" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social">
       </td>
     </tr>
 
