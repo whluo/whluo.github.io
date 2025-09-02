@@ -232,7 +232,7 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/multitalk.gif' style="max-width: 100%; width: 100%;">
+        <video src="../assets/multimedia/multitalk.mp4" width="320" controls="" loop=""></video>
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</papertitle>,
