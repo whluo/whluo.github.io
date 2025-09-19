@@ -237,7 +237,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</papertitle>,
                   <br>Zhe Kong, Feng Gao, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo,<br>
-                  <i>arXiv:2505.22647.</i>
+                  <i>Neural Information Processing Systems (NeurIPS), 2025.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2505.22647" target="_blank">arXiv</a>]
                   [<a href="https://meigen-ai.github.io/multi-talk/" target="_blank">Project Page</a>]
@@ -247,6 +247,21 @@ function toggleList() {
                   <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social">
       </td>
     </tr>
+
+      <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='./multimedia/freecure.jpg' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>Foundation Cures Personalization: Recovering Facial Personalized Models' Prompt Consistency</papertitle>,
+                  <br>Yiyang Cai, Zhengkai Jiang, Yulong Liu, Chunyang Jiang, Wei Xue, Yike Guo, Wenhan Luo,<br>
+                  <i>Neural Information Processing Systems (NeurIPS), 2025.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2411.15277" target="_blank">PDF</a>]
+         <p></p>
+      </td>
+    </tr>
+
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
