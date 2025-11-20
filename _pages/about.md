@@ -57,8 +57,8 @@ redirect_from:
 
 
 # Updates
-
-- 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: The Asiagraphics Workshop on Intelligent Graphics.
+- 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
+- 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: [The Asiagraphics Workshop on Intelligent Graphics](https://mp.weixin.qq.com/s/rJZH21hXi61ybiwtrdboJA).
 - 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
 - 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
 - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
@@ -70,7 +70,7 @@ redirect_from:
 - 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
 - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
 - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
-- 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
+
 
 
 
@@ -80,6 +80,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
   - 2025/04: &nbsp; I will serve as Area Chair for NeurIPS 2025.
   - 2025/03: &nbsp; Content restoration works to appear in TPAMI and PR.
   - 2025/03: &nbsp; I serve as Workshop Chair for [CVM 2025](http://iccvm.org/2025/).
