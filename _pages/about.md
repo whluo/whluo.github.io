@@ -219,7 +219,24 @@ function toggleList() {
 <table
     style="width:100%;max-width:900px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
     <tbody>
-     
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <video src="../assets/multimedia/anytalker.mp4" width="320" controls="" loop=""></video>
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement</papertitle>,
+                  <br>Zhizhou Zhong, Yicheng Ji, Zhe Kong, Yiying Liu, Jiarui Wang, Jiasun Feng, Lupeng Liu, Xiangyi Wang, Yanjia Li, Yuqing She, Ying Qin, Huan Li, Shuiyang Mao, Wei Liu, Wenhan Luo,<br>
+                  <i>	arXiv:2511.23475.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2511.23475" target="_blank">arXiv</a>]
+                  [<a href="https://hkust-c4g.github.io/AnyTalker-homepage/" target="_blank">Project Page</a>]
+                  [<a href="https://github.com/HKUST-C4G/AnyTalker" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/HKUST-C4G/AnyTalker?style=social">
+      </td>
+    </tr>
+
+
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/unic_demo.gif' style="max-width: 100%; width: 100%;">
