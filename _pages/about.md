@@ -63,13 +63,13 @@ redirect_from:
 - 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
 - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
 - 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
+- 2025/07: &nbsp; I will give a talk in ChinaSI 2025 (中国空间智能大会).
 - 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
 - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
 - 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
 - 2025/06: &nbsp; Paper to appear in TKDE.
 - 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
-- 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
-- 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
+
 
 
 
@@ -80,6 +80,8 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
+  - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
   - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
   - 2025/04: &nbsp; I will serve as Area Chair for NeurIPS 2025.
   - 2025/03: &nbsp; Content restoration works to appear in TPAMI and PR.
