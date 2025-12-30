@@ -223,8 +223,8 @@ function toggleList() {
     <tbody>
 
     <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/VACoT.mp4" width="320" controls="" loop=""></video>
+       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/VACoT.gif' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models</papertitle>,
