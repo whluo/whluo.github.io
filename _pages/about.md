@@ -263,7 +263,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>UNIC: Unified In-Context Video Editing</papertitle>,
                   <br>Zixuan Ye, Xuanhua He, Quande Liu, Qiulin Wang, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Qifeng Chen, Wenhan Luo,<br>
-                  <i>arXiv:2506.04216.</i>
+                  <i>International Conference on Learning Representations (ICLR), 2026.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2506.04216" target="_blank">arXiv</a>]
                   [<a href="https://zixuan-ye.github.io/UNIC/" target="_blank">Project Page</a>]
