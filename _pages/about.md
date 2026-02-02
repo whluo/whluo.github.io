@@ -33,7 +33,7 @@ redirect_from:
 
 <p>[<a href="assets/WenhanLuo_CV.pdf" target="_blank">Curriculum Vitae</a>] [<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wenhan-luo-whluo" target="_blank">HKUST Profile</a>] </p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>[Urgent Recuritment:] We are looking for a strong 26 spring/fall PhD candidate with expertise in efficient generative model (model acceleration, distillation, quantization, etc). RA towards PhD program is also highly welcomed.</font></p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><font color=a82e2e>[Urgent Recuritment]: We are looking for a strong 26 fall PhD candidate with expertise in efficient generative model (model acceleration, distillation, quantization, etc). RA towards PhD program is also highly welcomed.</font></p>
 
 # Research
 
