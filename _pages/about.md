@@ -223,6 +223,21 @@ function toggleList() {
     <tbody>
 
     <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/dina_lrm.png' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling</papertitle>,
+                  <br>Gongye Liu, Bo Yang, Yida Zhi, Zhizhou Zhong, Lei Ke, Didan Deng, Han Gao, Yongxiang Huang, Kaihao Zhang, Hongbo Fu, Wenhan Luo,<br>
+                  <i>arXiv:2602.11146.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2602.11146" target="_blank">arXiv</a>]
+                  [<a href="https://github.com/HKUST-C4G/diffusion-rm" target="_blank">Code</a>]
+      </td>
+    </tr>
+
+
+    <tr>
        <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/VACoT.gif' style="max-width: 100%; width: 100%;">
       </td>
