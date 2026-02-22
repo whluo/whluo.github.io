@@ -57,6 +57,8 @@ redirect_from:
 
 
 # Updates
+- 2026/02: &nbsp; Received an Outstanding Senior Program Committee Service Award (35 out of 1728 SPC) from AAAI 2026 Organization.
+- 2026/02: &nbsp; Recent acceptance: 2 ICLR + 6 CVPR.
 - 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
 - 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: [The Asiagraphics Workshop on Intelligent Graphics](https://mp.weixin.qq.com/s/rJZH21hXi61ybiwtrdboJA).
 - 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
@@ -67,8 +69,8 @@ redirect_from:
 - 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
 - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
 - 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
-- 2025/06: &nbsp; Paper to appear in TKDE.
-- 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
+
+
 
 
 
@@ -80,6 +82,8 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/06: &nbsp; Paper to appear in TKDE.
+  - 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
   - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
   - 2025/04: &nbsp; Two papers are accepted by SIGGRAPH 2025.
   - 2025/04: &nbsp; Serve as COI Coordinator for SIGGRAPH Asia 2025.
@@ -244,7 +248,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models</papertitle>,
                   <br>Zixuan Ye, Quande Liu, Cong Wei, Yuanxing Zhang, Xintao Wang, Pengfei Wan, Kun Gai, Wenhan Luo,<br>
-                  <i>arXiv:2512.19686.</i>
+                  <i>Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2026.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2512.19686" target="_blank">arXiv</a>]
                   [<a href="https://zixuan-ye.github.io/VACoT/" target="_blank">Project Page</a>]
