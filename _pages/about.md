@@ -57,6 +57,8 @@ redirect_from:
 
 
 # Updates
+
+- 2026/02: &nbsp; I will serve as Area Chair for ACM Multimedia 2026.
 - 2026/02: &nbsp; Received an Outstanding Senior Program Committee Service Award (35 out of 1728 SPC) from AAAI 2026 Organization.
 - 2026/02: &nbsp; Recent acceptance: 2 ICLR + 6 CVPR.
 - 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
@@ -68,7 +70,7 @@ redirect_from:
 - 2025/07: &nbsp; I will give a talk in ChinaSI 2025 (中国空间智能大会).
 - 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
 - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
-- 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
+
 
 
 
@@ -82,6 +84,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
   - 2025/06: &nbsp; Paper to appear in TKDE.
   - 2025/05: &nbsp; Papers accepted by TVCG and ACL 2025.
   - 2025/05: &nbsp; Serve as Area Chair for BMVC 2025.
