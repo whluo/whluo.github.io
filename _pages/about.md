@@ -40,18 +40,18 @@ redirect_from:
 <p style="text-align:justify; text-justify:inter-ideograph;"> I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors. </p>
 
 
-<p><img src="../assets/logos/Samsung_Logo.png" width="180" hspace="10"/>
-<img src="../assets/logos/Tencent_Logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/metax_logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/ByteDance_logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/Tencent_AILAB_logo.jpg" width="200" hspace="10"/>
-<img src="../assets/logos/WienerIntelligence_logo.png" width="125" />
-<img src="../assets/logos/VideoRebirth.png" width="200" />
+<p><img src="../assets/logos/Samsung_Logo.png" width="90" hspace="10"/>
+<img src="../assets/logos/Tencent_Logo.png" width="100" hspace="10"/>
+<img src="../assets/logos/metax_logo.png" width="100" hspace="10"/>
+<img src="../assets/logos/ByteDance_logo.png" width="100" hspace="10"/>
+<img src="../assets/logos/Tencent_AILAB_logo.jpg" width="100" hspace="10"/>
+<img src="../assets/logos/WienerIntelligence_logo.png" width="85" />
+<img src="../assets/logos/VideoRebirth.png" width="100" />
 <br>
-<img src="../assets/logos/NSFC_logo.png"  width="150" hspace="10"/>
-<img src="../assets/logos/GD_logo.png"  width="180" hspace="10"/>
-<img src="../assets/logos/SZ_logo.jpeg"  width="180" hspace="10"/>
-<img src="../assets/logos/QDBST.png" width="200" />
+<img src="../assets/logos/NSFC_logo.png"  width="80" hspace="10"/>
+<img src="../assets/logos/GD_logo.png"  width="100" hspace="10"/>
+<img src="../assets/logos/SZ_logo.jpeg"  width="100" hspace="10"/>
+<img src="../assets/logos/QDBST.png" width="100" />
 </p>
 
 
