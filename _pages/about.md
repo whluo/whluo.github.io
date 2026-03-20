@@ -43,7 +43,6 @@ redirect_from:
 <p><img src="../assets/logos/Samsung_Logo.png" width="180" hspace="10"/>
 <img src="../assets/logos/Tencent_Logo.png" width="200" hspace="10"/>
 <img src="../assets/logos/metax_logo.png" width="200" hspace="10"/>
-<img src="../assets/logos/Huawei_logo.png" width="100" hspace="10"/>
 <img src="../assets/logos/ByteDance_logo.png" width="200" hspace="10"/>
 <img src="../assets/logos/Tencent_AILAB_logo.jpg" width="200" hspace="10"/>
 <img src="../assets/logos/WienerIntelligence_logo.png" width="125" />
