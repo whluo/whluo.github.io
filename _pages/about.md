@@ -45,14 +45,16 @@ redirect_from:
 <img src="../assets/logos/metax_logo.png" width="100" hspace="10"/>
 <img src="../assets/logos/ByteDance_logo.png" width="100" hspace="10"/>
 <img src="../assets/logos/Tencent_AILAB_logo.jpg" width="100" hspace="10"/>
-<img src="../assets/logos/WienerIntelligence_logo.png" width="85" />
-<img src="../assets/logos/VideoRebirth.png" width="200" />
+<img src="../assets/logos/WienerIntelligence_logo.png" width="75" hspace="10" />
+<img src="../assets/logos/VideoRebirth.png" width="150" />
 <br>
 <img src="../assets/logos/Kuaishou_logo.png"  width="140" hspace="10"/>
 <img src="../assets/logos/NSFC_logo.png"  width="80" hspace="10"/>
 <img src="../assets/logos/GD_logo.png"  width="100" hspace="10"/>
 <img src="../assets/logos/SZ_logo.jpeg"  width="100" hspace="10"/>
-<img src="../assets/logos/QDBST.png" width="100" />
+<img src="../assets/logos/QDBST.png" width="100" hspace="10"/>
+<img src="../assets/logos/TencentVideo_logo.png"  width="100" hspace="10"/>
+<img src="../assets/logos/Baidu_logo.png" width="100" />
 </p>
 
 
