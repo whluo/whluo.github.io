@@ -31,6 +31,8 @@ redirect_from:
 
 <p style="text-align:justify; text-justify:inter-ideograph;"> I have published over 100 peer-reviewed papers in top-tier conferences and journals, like ICML, NeurIPS, CVPR, ICCV, ECCV, SIGGRAPH, ACL, ICLR, TPAMI, AI, IJCV. My work is selected into the CVPR 2019 Best Paper Finalist and I was awarded the 2022 ACM China Rising Star Award (Guangzhou Chapter). I have served as Senior Area Editor for IEEE Signal Processing Letters, Associate Editor for IEEE Transactions on Image Processing, Neurocomputing, IET Computer Vision, (Senior) Area Chair for ICLR, NeurIPS, ACM MM, ICML, IJCAI, BMVC, and Senior Program Committee member for AAAI and IJCAI, regular reviewer for top conferences and journals like TPAMI, IJCV, CVPR, ICML, ICCV. I have been elected among Top 2% Scientists worldwide (2023, 2024, 2025) by Stanford/Elsevier.</p>
 
+<p style="text-align:justify; text-justify:inter-ideograph; color:Tomato;"> Vacancies: our group begin to review the application for 27 spring/fall PhD students. The openings are funding-dependent on a rolling basis. If you are interested, please email me your CV and research interests. Priority will be given to candidates with outstanding academic background and strong publication record, those who are competitive applicants for the Hong Kong PhD Fellowship Scheme (HKPFS), as well as individuals who are willing to work as a Research Assistant (RA) or intern prior to their PhD studies.</p>
+
 <p>[<a href="assets/WenhanLuo_CV.pdf" target="_blank">Curriculum Vitae</a>] [<a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wenhan-luo-whluo" target="_blank">HKUST Profile</a>] </p>
 
 
