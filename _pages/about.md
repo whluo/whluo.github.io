@@ -246,6 +246,7 @@ function toggleList() {
                   <br>
                   [<a href="https://arxiv.org/abs/2602.11146" target="_blank">arXiv</a>]
                   [<a href="https://github.com/HKUST-C4G/diffusion-rm" target="_blank">Code</a>]
+                   <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/HKUST-C4G/diffusion-rm?style=social">
       </td>
     </tr>
 
