@@ -61,6 +61,7 @@ redirect_from:
 
 # Updates
 
+- 2026/05: &nbsp; DiNa-LRM is accepted by ICML 2026.
 - 2026/03: &nbsp; I will give a talk in Chinese Congress on Image and Graphics 2026 (中国图象图形大会): 低质量视觉处理与质量评价论坛.
 - 2026/02: &nbsp; I will serve as Area Chair for ACM Multimedia 2026.
 - 2026/02: &nbsp; Received an Outstanding Senior Program Committee Service Award (35 out of 1728 SPC) from AAAI 2026 Organization.
@@ -72,7 +73,7 @@ redirect_from:
 - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
 - 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
 - 2025/07: &nbsp; I will give a talk in ChinaSI 2025 (中国空间智能大会).
-- 2025/06: &nbsp; I will serve as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
+
 
 
 
@@ -88,7 +89,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
-  
+  - 2025/06: &nbsp; Appointed as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
   - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
   - 2025/06: &nbsp; Our group secured funding from Tencent ([news](https://amc.hkust.edu.hk/news/research-project-selected-2025-tencent-ai-lab-rhino-bird)), ByteDance, Huawei, Wiener Intelligence, Video Rebirth, Qingdao Municipal Bureau of Science and Technology.
   - 2025/06: &nbsp; Paper to appear in TKDE.
@@ -242,7 +243,7 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling</papertitle>,
                   <br>Gongye Liu, Bo Yang, Yida Zhi, Zhizhou Zhong, Lei Ke, Didan Deng, Han Gao, Yongxiang Huang, Kaihao Zhang, Hongbo Fu, Wenhan Luo,<br>
-                  <i>arXiv:2602.11146.</i>
+                  <i>International Conference on Machine Learning (ICML), 2026.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2602.11146" target="_blank">arXiv</a>]
                   [<a href="https://github.com/HKUST-C4G/diffusion-rm" target="_blank">Code</a>]
