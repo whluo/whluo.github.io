@@ -60,7 +60,7 @@ redirect_from:
 
 
 # Updates
-
+- 2026/05: &nbsp; Received IEEE Signal Processing Society Outstanding Editorial Board Member Award for my service to IEEE Signal Processing Letters as Senior Area Editor. 
 - 2026/05: &nbsp; DiNa-LRM is accepted by ICML 2026.
 - 2026/03: &nbsp; I will give a talk in Chinese Congress on Image and Graphics 2026 (中国图象图形大会): 低质量视觉处理与质量评价论坛.
 - 2026/03: &nbsp; I will serve as Senior Area Chair for NeurIPS 2026 and Area Chair for ACCV 2026.
@@ -72,7 +72,7 @@ redirect_from:
 - 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
 - 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
 - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
-- 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
+
 
 
 
@@ -90,6 +90,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
   - 2025/07: &nbsp; I will give a talk in ChinaSI 2025 (中国空间智能大会).
   - 2025/06: &nbsp; Appointed as Senior Area Editor (S-AE) for IEEE Signal Processing Letters.
   - 2025/06: &nbsp; MaterialMVP and MOERL are accepted by ICCV 2025.
