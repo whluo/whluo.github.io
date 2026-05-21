@@ -246,7 +246,7 @@ function toggleList() {
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training</papertitle>,
-                  <br>Lianyu Pang, Tianlin Pan, Cheng Da, Changqian Yu, Huan Yang, Kun Gai, Song Guo, Wenhan Luo,<br>
+                  <br>Lianyu Pang*, Tianlin Pan*, Cheng Da, Changqian Yu, Huan Yang, Kun Gai, Song Guo, Wenhan Luo,<br>
                   <i>preprint.</i>
                   <br>
                   [<a href="" target="_blank">arXiv</a>]
@@ -262,7 +262,7 @@ function toggleList() {
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation</papertitle>,
-                  <br>Hanxiao Sun, Mingxin Yang, Shuhui Yang, Zebin He, Xintong Han, Hongbo Fu, Chunchao Guo, Wenhan Luo,<br>
+                  <br>Hanxiao Sun*, Mingxin Yang*, Shuhui Yang, Zebin He, Xintong Han, Hongbo Fu, Chunchao Guo, Wenhan Luo,<br>
                   <i>arXiv:2605.21121.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2605.21121" target="_blank">arXiv</a>]
