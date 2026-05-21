@@ -256,6 +256,22 @@ function toggleList() {
       </td>
     </tr>
 
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/roar3D.jpg' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation</papertitle>,
+                  <br>Hanxiao Sun, Mingxin Yang, Shuhui Yang, Zebin He, Xintong Han, Hongbo Fu, Chunchao Guo, Wenhan Luo,<br>
+                  <i>arXiv:2605.21121.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2605.21121" target="_blank">arXiv</a>]
+                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="" target="_blank">Code</a>]
+                  
+      </td>
+    </tr>
+
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
@@ -480,6 +496,7 @@ function toggleList() {
                   <br>
                   [<a href="https://arxiv.org/abs/2501.04486" target="_blank">arXiv</a>]
                   [<a href="https://github.com/FVL2020/MB-TaylorFormerV2" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/FVL2020/MB-TaylorFormerV2?style=social">
       </td>
     </tr>
 
