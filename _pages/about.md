@@ -64,7 +64,7 @@ redirect_from:
 - 2026/05: &nbsp; A joint work with Sun Yat-sen University Cancer Center is accepted by Nature Communications.
 - 2026/05: &nbsp; Received IEEE Signal Processing Society Outstanding Editorial Board Member Award for my service to IEEE Signal Processing Letters as Senior Area Editor. 
 - 2026/05: &nbsp; DiNa-LRM is accepted by ICML 2026.
-- 2026/03: &nbsp; I will give a talk in Chinese Congress on Image and Graphics 2026 (中国图象图形大会): 低质量视觉处理与质量评价论坛.
+- 2026/03: &nbsp; I will give a talk in Chinese Congress on Image and Graphics 2026 (中国图像图形大会): 低质量视觉处理与质量评价论坛.
 - 2026/03: &nbsp; I will serve as Senior Area Chair for NeurIPS 2026 and Area Chair for ACCV 2026.
 - 2026/02: &nbsp; I will serve as Area Chair for ACM Multimedia 2026.
 - 2026/02: &nbsp; Received an Outstanding Senior Program Committee Service Award (35 out of 1728 SPC) from AAAI 2026 Organization.
