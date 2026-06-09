@@ -267,9 +267,9 @@ function toggleList() {
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training</papertitle>,
                   <br>Lianyu Pang*, Tianlin Pan*, Cheng Da, Changqian Yu, Huan Yang, Kun Gai, Song Guo, Wenhan Luo,<br>
-                  <i>preprint.</i>
+                  <i>arXiv:2606.08788.</i>
                   <br>
-                  [<a href="" target="_blank">arXiv</a>]
+                  [<a href="https://arxiv.org/abs/2606.08788" target="_blank">arXiv</a>]
                   [<a href="" target="_blank">Project Page</a>]
                   [<a href="" target="_blank">Code</a>]
                   
