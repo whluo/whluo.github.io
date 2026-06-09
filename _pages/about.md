@@ -245,6 +245,23 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/normguard.png' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning</papertitle>,
+                  <br>Tianlin Pan*, Lianyu Pang*, Cheng Da, Huan Yang, Changqian Yu, Kun Gai, Wenhan Luo,<br>
+                  <i>preprint.</i>
+                  <br>
+                  [<a href="" target="_blank">arXiv</a>]
+                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="" target="_blank">Code</a>]
+                  
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/maskalign.png' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
