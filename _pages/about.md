@@ -60,6 +60,7 @@ redirect_from:
 
 
 # Updates
+- 2026/06: &nbsp; Five papers are  accepted by ECCV 2026.
 - 2026/06: &nbsp; We are organizing a special issue "Generative Models for Computer Vision" in Pattern Recognition, see the [CFP](https://www.sciencedirect.com/special-issue/334131/generative-models-for-computer-vision).
 - 2026/05: &nbsp; A joint work with Sun Yat-sen University Cancer Center is accepted by Nature Communications.
 - 2026/05: &nbsp; Received IEEE Signal Processing Society Outstanding Editorial Board Member Award for my service to IEEE Signal Processing Letters as Senior Area Editor. 
@@ -71,7 +72,7 @@ redirect_from:
 - 2026/02: &nbsp; Recent acceptance: 2 ICLR + 6 CVPR.
 - 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
 - 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: [The Asiagraphics Workshop on Intelligent Graphics](https://mp.weixin.qq.com/s/rJZH21hXi61ybiwtrdboJA).
-- 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
+
 
 
 
@@ -91,6 +92,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
   - 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
   - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
   - 2025/07: &nbsp; Our [group webpage](https://c4g-hkust.github.io/) is now live.
@@ -244,6 +246,39 @@ function toggleList() {
 
 
     <tr>
+        <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <video src="../assets/multimedia/echostyle_eccv2026.mp4" width="320" controls="" loop=""></video>
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis</papertitle>,
+                  <br>Huaqiu Li, Jiahao Wang, Sijia Cai, Hualian Sheng, Bing Deng, Jieping Ye, Wenhan Luo,<br>
+                  <i>European Conference on Computer Vision (ECCV), 2026.</i>
+                  <br>
+                  [<a href="" target="_blank">arXiv</a>]
+                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="" target="_blank">Code</a>]
+                  
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/roar3D.jpg' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation</papertitle>,
+                  <br>Hanxiao Sun*, Mingxin Yang*, Shuhui Yang, Zebin He, Xintong Han, Hongbo Fu, Chunchao Guo, Wenhan Luo,<br>
+                  <i>European Conference on Computer Vision (ECCV), 2026.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2605.21121" target="_blank">arXiv</a>]
+                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="" target="_blank">Code</a>]
+      </td>
+    </tr>
+
+
+    <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/normguard.png' style="max-width: 100%; width: 100%;">
       </td>
@@ -270,22 +305,6 @@ function toggleList() {
                   <i>arXiv:2606.08788.</i>
                   <br>
                   [<a href="https://arxiv.org/abs/2606.08788" target="_blank">arXiv</a>]
-                  [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/roar3D.jpg' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation</papertitle>,
-                  <br>Hanxiao Sun*, Mingxin Yang*, Shuhui Yang, Zebin He, Xintong Han, Hongbo Fu, Chunchao Guo, Wenhan Luo,<br>
-                  <i>arXiv:2605.21121.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2605.21121" target="_blank">arXiv</a>]
                   [<a href="" target="_blank">Project Page</a>]
                   [<a href="" target="_blank">Code</a>]
                   
