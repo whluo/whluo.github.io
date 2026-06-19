@@ -246,8 +246,8 @@ function toggleList() {
 
 
     <tr>
-        <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/echostyle_eccv2026.mp4" width="320" controls="" loop=""></video>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/echostyle_eccv2026.gif' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis</papertitle>,
@@ -256,8 +256,7 @@ function toggleList() {
                   <br>
                   [<a href="" target="_blank">arXiv</a>]
                   [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
+                  [<a href="" target="_blank">Code</a>]         
       </td>
     </tr>
 
@@ -289,8 +288,7 @@ function toggleList() {
                   <br>
                   [<a href="" target="_blank">arXiv</a>]
                   [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
+                  [<a href="" target="_blank">Code</a>]           
       </td>
     </tr>
 
@@ -306,8 +304,7 @@ function toggleList() {
                   <br>
                   [<a href="https://arxiv.org/abs/2606.08788" target="_blank">arXiv</a>]
                   [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
+                  [<a href="" target="_blank">Code</a>]         
       </td>
     </tr>
 
@@ -462,9 +459,9 @@ function toggleList() {
       </td>
     </tr>
 
-      <tr>
+    <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/freecure_neurips25.mp4" width="320" controls="" loop=""></video>
+        <img src='../assets/multimedia/freecure_neurips25.gif' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
         <papertitle>Foundation Cures Personalization: Recovering Facial Personalized Models' Prompt Consistency</papertitle>,
