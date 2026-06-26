@@ -247,6 +247,22 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/domainshuttle.gif' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation</papertitle>,
+                  <br>Nan Chen, Yiyang Cai, Rongchang Xie, Junwen Pan, Cheng Chen, Weinan Jia, Zhuowei Chen, Wen Zhou, Zhenbang Sun, Wenhan Luo,<br>
+                  <i>arXiv:2606.26058.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2606.26058" target="_blank">arXiv</a>]
+                  [<a href="https://cn-makers.github.io/DomainShuttle/" target="_blank">Project Page</a>]
+                  [<a href="https://github.com/HKUST-C4G/DomainShuttle" target="_blank">Code</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/HKUST-C4G/DomainShuttle?style=social">         
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/echostyle_eccv2026.gif' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
@@ -254,8 +270,8 @@ function toggleList() {
                   <br>Huaqiu Li, Jiahao Wang, Sijia Cai, Hualian Sheng, Bing Deng, Jieping Ye, Wenhan Luo,<br>
                   <i>European Conference on Computer Vision (ECCV), 2026.</i>
                   <br>
-                  [<a href="" target="_blank">arXiv</a>]
-                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="https://arxiv.org/abs/2606.25465" target="_blank">arXiv</a>]
+                  [<a href="https://echostyle2026.github.io/" target="_blank">Project Page</a>]
                   [<a href="" target="_blank">Code</a>]         
       </td>
     </tr>
@@ -326,55 +342,6 @@ function toggleList() {
     </tr>
 
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/vcr.png' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>VCR: Learning Valid Contextual Representation for Incomplete Wearable Signals</papertitle>,
-                  <br>Yuxuan Weng, Wenhan Luo, Qijia Shao,<br>
-                  <i>arXiv:2605.18837.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2605.18837" target="_blank">arXiv</a>]
-                  [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/attention_hijacking.png' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Attention Hijacking: Response Manipulation Across Queries in Vision-Language Models</papertitle>,
-                  <br>Zhiqiang Wang, Dongrui Liu, Yan Li, Zonghao Ying, Wei Xue, Wenhan Luo, Yike Guo,<br>
-                  <i>arXiv:2605.17310.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2605.17310" target="_blank">arXiv</a>]
-                  [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
-      </td>
-    </tr>
-
-
-
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/forcing_kv.png' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models</papertitle>,
-                  <br>Yicheng Ji, Zhizhou Zhong, Jun Zhang, Qin Yang, XiTai Jin, Ying Qin, Wenhan Luo, Shuiyang Mao, Wei Liu, Huan Li,<br>
-                  <i>arXiv:2605.09681.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2605.09681" target="_blank">arXiv</a>]
-                  [<a href="https://zju-jiyicheng.github.io/Forcing-KV-Page/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/zju-jiyicheng/Forcing-KV" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/zju-jiyicheng/Forcing-KV?style=social">
-      </td>
-    </tr>
 
 
     <tr>
@@ -473,23 +440,6 @@ function toggleList() {
                   [<a href="https://github.com/YIYANGCAI/FreeCure" target="_blank">Code</a>]
                   <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/YIYANGCAI/FreeCure?style=social">
          <p></p>
-      </td>
-    </tr>
-
-
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <video src="../assets/multimedia/infinitetalk.mp4" width="320" controls="" loop=""></video>
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing</papertitle>,
-                  <br>Shaoshu Yang*, Zhe Kong*, Feng Gao*, Meng Cheng*, Xiangyu Liu*, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei,<br>
-                  <i>arXiv:2508.14033.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2508.14033" target="_blank">arXiv</a>]
-                  [<a href="https://meigen-ai.github.io/InfiniteTalk/" target="_blank">Project Page</a>]
-                  [<a href="https://github.com/MeiGen-AI/InfiniteTalk" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social">
       </td>
     </tr>
 
