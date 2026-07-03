@@ -464,18 +464,6 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/moerl_iccv2025.png' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration</papertitle>,
-                  <br>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo,<br>
-                  <i>Proc. of International Conference on Computer Vision (ICCV), Hawaii, USA, 2025.</i>
-                  <br>
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/dam-vsr-siggraph.jpg' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
@@ -487,21 +475,6 @@ function toggleList() {
                   [<a href="https://kongzhecn.github.io/projects/dam-vsr/" target="_blank">Project Page</a>]
                   [<a href="https://github.com/kongzhecn/DAM-VSR" target="_blank">Code</a>]
                   <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social">
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/mbtaylorv2.jpg' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration</papertitle>,
-                  <br>Zhi Jin, Yuwei Qiu, Kaihao Zhang, Hongdong Li, Wenhan Luo,<br>
-                  <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), vol. 47, pp. 5990–6005, 2025.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2501.04486" target="_blank">arXiv</a>]
-                  [<a href="https://github.com/FVL2020/MB-TaylorFormerV2" target="_blank">Code</a>]
-                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/FVL2020/MB-TaylorFormerV2?style=social">
       </td>
     </tr>
 
