@@ -60,6 +60,7 @@ redirect_from:
 
 
 # Updates
+- 2026/07: &nbsp; I will give a talk in [2026莲花山人工智能大会: 青年科学家论坛](https://aic.hust.edu.cn/).
 - 2026/06: &nbsp; Five papers are  accepted by ECCV 2026.
 - 2026/06: &nbsp; We are organizing a special issue "Generative Models for Computer Vision" in Pattern Recognition, see the [CFP](https://www.sciencedirect.com/special-issue/334131/generative-models-for-computer-vision).
 - 2026/05: &nbsp; A joint work with Sun Yat-sen University Cancer Center is accepted by Nature Communications.
@@ -71,19 +72,6 @@ redirect_from:
 - 2026/02: &nbsp; Received an Outstanding Senior Program Committee Service Award (35 out of 1728 SPC) from AAAI 2026 Organization.
 - 2026/02: &nbsp; Recent acceptance: 2 ICLR + 6 CVPR.
 - 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
-- 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: [The Asiagraphics Workshop on Intelligent Graphics](https://mp.weixin.qq.com/s/rJZH21hXi61ybiwtrdboJA).
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -92,6 +80,7 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2025/10: &nbsp; I will give a talk in SIGGRAPH Asia 2025: [The Asiagraphics Workshop on Intelligent Graphics](https://mp.weixin.qq.com/s/rJZH21hXi61ybiwtrdboJA).
   - 2025/09: &nbsp; We are organizing a workshop in AAAI 2026: [Consistency in Video Generative Models: from Clip to Wild](https://sites.google.com/view/aaai26-cvm/home). Welcome to participate to win the top prize of up to 200,000 CNY.
   - 2025/08: &nbsp; I will serve as Area Chair for ICLR 2026.
   - 2025/07: &nbsp; I will serve as Senior Program Committe (SPC) member for AAAI 2026.
