@@ -277,7 +277,8 @@ function toggleList() {
                   [<a href="https://arxiv.org/abs/2606.25465" target="_blank">arXiv</a>]
                   [<a href="https://echostyle2026.github.io/" target="_blank">Project Page</a>]
                   [<a href="https://github.com/HKUST-C4G/EchoStyle" target="_blank">Code</a>]  
-                  [<a href="https://huggingface.co/youchun/echostyle" target="_blank">Hugging Face Model</a>]         
+                  [<a href="https://huggingface.co/youchun/echostyle" target="_blank">Hugging Face Model</a>]
+                  <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/HKUST-C4G/EchoStyle?style=social">          
       </td>
     </tr>
 
