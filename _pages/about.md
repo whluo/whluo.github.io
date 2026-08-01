@@ -57,7 +57,7 @@ redirect_from:
 <img src="../assets/logos/TencentVideo_logo.png"  width="100" hspace="10"/>
 <img src="../assets/logos/Baidu_logo.png" width="100" />
 <br>
-<img src="../assets/logos/rgc_logo.png" width="100" hspace="10"/>
+<img src="../assets/logos/rgc_logo.png" width="150" hspace="10"/>
 </p>
 
 
