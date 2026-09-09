@@ -240,6 +240,22 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/oHC.png' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>oHC: Orthogonal Hyper-Connections on SO(4) via Quaternions</papertitle>,
+                  <br>Haoqiang Guo, Xuyi Chen, Bo Ke, Yishu Lei, Ziyang Xu, Shikun Feng, Ximen, Wenhan Luo,<br>
+                  <i>arXiv:2609.02672.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2609.02672" target="_blank">arXiv</a>]
+                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="" target="_blank">Code</a>]          
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/normguard.png' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
