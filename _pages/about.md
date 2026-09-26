@@ -240,6 +240,23 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/tango3d.png' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>Tango3D: Towards Alignment for Global and Local 2D-3D Correspondence</papertitle>,
+                  <br>Zebin He, Mingxin Yang, Shuhui Yang, Hanxiao Sun, Xintong Han, Chunchao Guo, Wenhan Luo,<br>
+                  <i>Neural Information Processing Systems (NeurIPS), 2026.</i>
+                  <br>
+                  [<a href="https://arxiv.org/abs/2605.19727" target="_blank">arXiv</a>]
+                  [<a href="" target="_blank">Project Page</a>]
+                  [<a href="" target="_blank">Code</a>]
+                  
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/oHC.png' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
@@ -338,21 +355,7 @@ function toggleList() {
     </tr>
 
 
-    <tr>
-      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
-        <img src='../assets/multimedia/tango3d.png' style="max-width: 100%; width: 100%;">
-      </td>
-      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
-        <papertitle>Tango3D: Towards Alignment for Global and Local 2D-3D Correspondence</papertitle>,
-                  <br>Zebin He, Mingxin Yang, Shuhui Yang, Hanxiao Sun, Xintong Han, Chunchao Guo, Wenhan Luo,<br>
-                  <i>arXiv:2605.19727.</i>
-                  <br>
-                  [<a href="https://arxiv.org/abs/2605.19727" target="_blank">arXiv</a>]
-                  [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
-      </td>
-    </tr>
+
 
 
 
