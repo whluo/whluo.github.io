@@ -240,6 +240,19 @@ function toggleList() {
 
     <tr>
       <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
+        <img src='../assets/multimedia/materialplus_tpami2026.png' style="max-width: 100%; width: 100%;">
+      </td>
+      <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
+        <papertitle>MaterialMVP++: High-quality Material Generation with Neural Bump Estimation via Multi-view PBR Diffusion</papertitle>,
+                  <br>Zebin He*, Mingxin Yang*, Shuhui Yang, Zeqiang Lai, Xiangyu Yue, Chunchao Guo, Wenhan Luo,<br>
+                  <i>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), to appear.</i>
+                  <br>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="padding-top: 10px; padding-bottom: 10px;width:35%;vertical-align:middle;text-align:center">
         <img src='../assets/multimedia/tango3d.png' style="max-width: 100%; width: 100%;">
       </td>
       <td style="padding:20px;width:65%;vertical-align:middle;text-align:justify">
@@ -249,8 +262,7 @@ function toggleList() {
                   <br>
                   [<a href="https://arxiv.org/abs/2605.19727" target="_blank">arXiv</a>]
                   [<a href="" target="_blank">Project Page</a>]
-                  [<a href="" target="_blank">Code</a>]
-                  
+                  [<a href="" target="_blank">Code</a>]    
       </td>
     </tr>
 
