@@ -41,23 +41,23 @@ redirect_from:
 <p style="text-align:justify; text-justify:inter-ideograph;"> I conduct research on creative AI. Specifically, my current research focuses on several topics, such as image/video generation and restoration/enhancement. My research is supported by the following sponsors. </p>
 
 
-<p><img src="../assets/logos/Samsung_Logo.png" width="90" hspace="10"/>
-<img src="../assets/logos/Tencent_Logo.png" width="100" hspace="10"/>
-<img src="../assets/logos/metax_logo.png" width="100" hspace="10"/>
-<img src="../assets/logos/ByteDance_logo.png" width="100" hspace="10"/>
-<img src="../assets/logos/Tencent_AILAB_logo.jpg" width="100" hspace="10"/>
-<img src="../assets/logos/WienerIntelligence_logo.png" width="75" hspace="10" />
-<img src="../assets/logos/VideoRebirth.png" width="150" hspace="10"/>
-<img src="../assets/logos/Kuaishou_logo.png"  width="140" />
+<p><img src="../assets/logos/Samsung_Logo.png" width="80" hspace="10"/>
+<img src="../assets/logos/Tencent_Logo.png" width="90" hspace="10"/>
+<img src="../assets/logos/metax_logo.png" width="90" hspace="10"/>
+<img src="../assets/logos/ByteDance_logo.png" width="90" hspace="10"/>
+<img src="../assets/logos/Tencent_AILAB_logo.jpg" width="90" hspace="10"/>
+<img src="../assets/logos/WienerIntelligence_logo.png" width="65" hspace="10" />
+<img src="../assets/logos/VideoRebirth.png" width="130" hspace="10"/>
+<img src="../assets/logos/Kuaishou_logo.png"  width="130" />
 <br>
-<img src="../assets/logos/rgc_logo.png" width="150" hspace="10"/>
-<img src="../assets/logos/NSFC_logo.png"  width="80" hspace="10"/>
-<img src="../assets/logos/itc_logo.png"  width="120" hspace="10"/>
-<img src="../assets/logos/GD_logo.png"  width="100" hspace="10"/>
-<img src="../assets/logos/SZ_logo.jpeg"  width="100" hspace="10"/>
-<img src="../assets/logos/QDBST.png" width="100" hspace="10"/>
-<img src="../assets/logos/TencentVideo_logo.png"  width="100" hspace="10"/>
-<img src="../assets/logos/Baidu_logo.png" width="100" />
+<img src="../assets/logos/rgc_logo.png" width="130" hspace="10"/>
+<img src="../assets/logos/NSFC_logo.png"  width="70" hspace="10"/>
+<img src="../assets/logos/itc_logo.png"  width="110" hspace="10"/>
+<img src="../assets/logos/GD_logo.png"  width="90" hspace="10"/>
+<img src="../assets/logos/SZ_logo.jpeg"  width="90" hspace="10"/>
+<img src="../assets/logos/QDBST.png" width="90" hspace="10"/>
+<img src="../assets/logos/TencentVideo_logo.png"  width="90" hspace="10"/>
+<img src="../assets/logos/Baidu_logo.png" width="90" />
 <br>
 
 </p>
