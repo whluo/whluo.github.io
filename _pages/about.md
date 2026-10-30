@@ -64,6 +64,9 @@ redirect_from:
 
 
 # Updates
+
+- 2026/10: &nbsp; Recent acceptance: IJCV and TIP.
+- 2026/10: &nbsp; I will give a talk in [NSFC-RGC Young Scholars Forum: Image and Video Enhancement and Intelligent Recognition](https://mp.weixin.qq.com/s/rREYy99fExgZvoHR7NMCWA).
 - 2026/09: &nbsp; Recent acceptance: 4 NeurIPS + 1 TPAMI.
 - 2026/08: &nbsp; I will serve as Area Chair for ICLR 2027.
 - 2026/07: &nbsp; Our group secured funding from Kuaishou, Tencent Video, Baidu and Research Grants Council of Hong Kong (RGC).
@@ -74,8 +77,8 @@ redirect_from:
 - 2026/05: &nbsp; Received IEEE Signal Processing Society Outstanding Editorial Board Member Award for my service to IEEE Signal Processing Letters as Senior Area Editor. 
 - 2026/05: &nbsp; DiNa-LRM is accepted by ICML 2026.
 - 2026/03: &nbsp; I will give a talk in Chinese Congress on Image and Graphics 2026 (中国图像图形大会): [低质量视觉处理与质量评价论坛](https://ccig.csig.org.cn/2026/11493/list.html).
-- 2026/03: &nbsp; I will serve as Senior Area Chair for NeurIPS 2026 and Area Chair for ACCV 2026.
-- 2026/02: &nbsp; I will serve as Area Chair for ACM Multimedia 2026.
+
+
 
 
 
@@ -86,6 +89,8 @@ redirect_from:
 <a onclick="toggleList()" id='more'>Show more</a>
 <div id="hiddenList" style="display:none;">
   {% capture hidden_list %}
+  - 2026/03: &nbsp; I will serve as Senior Area Chair for NeurIPS 2026 and Area Chair for ACCV 2026.
+  - 2026/02: &nbsp; I will serve as Area Chair for ACM Multimedia 2026.
   - 2026/02: &nbsp; Received an Outstanding Senior Program Committee Service Award (35 out of 1728 SPC) from AAAI 2026 Organization.
   - 2026/02: &nbsp; Recent acceptance: 2 ICLR + 6 CVPR.
   - 2025/11: &nbsp; I will serve as Area Chair for ICML 2026.
